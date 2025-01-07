@@ -251,7 +251,8 @@ CCTV-15,http://114.249.230.215:9888/udp/239.3.1.153:8136$订阅源
 CCTV-15,http://111.196.129.152:20000/udp/239.3.1.153:8136$订阅源
 CCTV-15,http://123.130.84.106:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://123.129.70.178:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-电视剧,#genre#NewTV黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源
+电视剧,#genre#
+NewTV黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源
 NewTV 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 NewTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8$订阅源
 NewTV 超级电视剧「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8IPv6
