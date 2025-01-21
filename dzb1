@@ -1,0 +1,765 @@
+{
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733131789935/fan.txt;md5;99b6c138ce197b9cd89ccf9dc26a37bc",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "warningText": "磨砺声明：资源来自网络，无盈利，仅供学习测试，请勿用于违法及商业用途，请勿付费购买，测试之后请自行删除",
+  "sites": [
+      {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+      },
+       {
+      "key": "原创",
+      "name": "☀原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "豆豆",
+      "name": "电影免费",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "YGP",
+      "name": "🚀叨观荐影",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzyvideo.com/"
+    }, 
+    {
+      "key": "萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "低端",
+      "name": "⏮️低端┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Auete",
+      "name": "🏝奥特┃无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.com/"
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_LiteApple",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "hipy_js_腾云驾雾[官]",
+      "name": "🌞腾腾┃解析",
+      "type": 3,
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "🌞果果┃解析",
+      "type": 3,
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+    },
+    {
+      "key": "csp_视觉",
+      "name": "🔭视觉┃PYTHON",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "https://3450.kstore.vip/shijue.py",
+      "playerType": 2,
+      "filterable": 1
+    },
+    {
+      "key": "荐片",
+      "name": "🍭荐片┃磁力",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "1",
+      "ext": "http://api2.rinhome.com"
+    },
+        {
+            "key": "豆瓣推荐",
+            "name": "宝盒APP",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "星辰",
+            "name": "道长布蕾",
+            "type": 3,
+            "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://47.99.102.252/drpy_js/bulei.js"
+        },
+        {
+            "key": "机器人弹幕",
+            "name": "机器弹幕",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "快看影视",
+            "name": "快看影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "jar": "http://mzrjk.top/bhjk/xcxl",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "热播影视",
+            "name": "热播影视",
+            "type": 3,
+            "api": "csp_AppRB",
+            "jar": "http://mzrjk.top/bhjk/xcxl",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+      
+        {
+            "key": "36zy",
+            "name": "三六影视",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "动画电影",
+                "网络电影",
+                "动作片",
+                "喜剧片",
+                "灾难片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "惊悚片",
+                "犯罪片",
+                "冒险片",
+                "悬疑片",
+                "武侠片",
+                "奇幻片",
+                "国产综艺"
+            ],
+            "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+        },
+        {
+            "key": "lzzy",
+            "name": "量子影视",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "json:http://110.42.3.99:880/rmm.php/?url=",
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
+        },
+        {
+            "key": "蚂蚁",
+            "name": "蚂蚁影视",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod",
+            "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+            "categories": [
+                "爽文短剧",
+                "国产剧",
+                "国产动漫",
+                "动画电影",
+                "网络电影",
+                "动作片",
+                "喜剧片",
+                "灾难片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "惊悚片",
+                "犯罪片",
+                "冒险片",
+                "悬疑片",
+                "武侠片",
+                "奇幻片",
+                "国产综艺"
+            ]
+        },
+        {
+            "key": "摸鱼瓜子",
+            "name": "瓜子蓝光",
+            "type": 3,
+            "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "苹果蓝光",
+            "type": 3,
+            "searchable": 1,
+            "api": "csp_LiteApple",
+            "jar": "http://mzjk.top/禁止贩卖/lib/xm.jar",
+            "playerType": 1,
+            "filterable": 1
+        },
+        {
+            "key": "drpy_js_黑木耳资源",
+            "name": "木耳影视",
+            "type": 3,
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"
+        },
+        {
+            "key": "苹果影视",
+            "name": "苹果影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+      
+{"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"ext":"","jar":"https://gitee.com/kosan75/tv/raw/master/jar/241114.jar"},
+{"key":"柠檬","name":"柠檬","type":3,"api":"csp_Nmvod","playerType":1,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","jar":"https://gitee.com/kosan75/tv/raw/master/jar/241114.jar"},
+{"key":"雨滴","name":"雨滴","type":3,"api":"csp_Xdai","playerType":1,"ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA","jar":"https://gitee.com/kosan75/tv/raw/master/jar/241114.jar"},
+{"key":"暴风","name":"暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","categories":["国产剧"]},
+                  {
+                            "key": "drpy_js_豆瓣",
+                                  "name": "❤️豆瓣",
+                                        "type": 3,
+                                              "api": "csp_DouDou",
+                                                    "searchable": 0,
+                                                          "quickSearch": 0,
+                                                                "filterable": 0
+                  },
+
+                      {
+                                "key": "hipy_js_奇珍异兽[官]",
+                                      "name": "❤️奇异",
+                                            "type": 3,
+                                                  "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                        "searchable": 1,
+                                                              "quickSearch": 1,
+                                                                    "filterable": 1,
+                                                                          "order_num": 0,
+                                                                                "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/奇珍异兽[官].js"
+                      },
+
+                          {
+                                    "key": "hipy_js_腾云驾雾[官]",
+                                          "name": "❤️腾讯",
+                                                "type": 3,
+                                                      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                            "searchable": 1,
+                                                                  "quickSearch": 1,
+                                                                        "filterable": 1,
+                                                                              "order_num": 0,
+                                                                                    "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/腾云驾雾[官].js"
+                          },
+
+                              {
+                                        "key": "hipy_js_百忙无果[官]",
+                                              "name": "❤️芒果",
+                                                    "type": 3,
+                                                          "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                                "searchable": 1,
+                                                                      "quickSearch": 1,
+                                                                            "filterable": 1,
+                                                                                  "order_num": 0,
+                                                                                        "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/百忙无果[官].js"
+                              },
+
+                                  {
+                                            "key": "hipy_js_优酷[官]",
+                                                  "name": "❤️优酷",
+                                                        "type": 3,
+                                                              "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+                                                                    "searchable": 1,
+                                                                          "quickSearch": 1,
+                                                                                "filterable": 1,
+                                                                                      "order_num": 0,
+                                                                                            "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/优酷[官].js"
+                                  },
+
+                                      {
+                                                "key": "P4_荐片",
+                                                      "name": "❤️荐片",
+                                                            "type": 3,
+                                                                  "api": "csp_Jianpian",
+                                                                        "playerType": "2",
+                                                                              "jar": "https://gitee.com/zt205yzy/live-streaming-source-library/raw/jar/P4.jar",
+                                                                                    "ext": "http://api2.rinhome.com"
+                                      },
+
+                                          {
+                                                    "key": "摸鱼瓜子",
+                                                          "name": "❤️瓜子",
+                                                                "type": 3,
+                                                                      "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+                                                                            "filterable": 1,
+                                                                                  "order_num": 0,
+                                                                                        "changeable": 0,
+                                                                                              "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js",
+                                                                                                    "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
+                                          },
+
+                                                    {
+                                                              "key": "shys",
+                                                                    "name": "❤️骚火",
+                                                                          "type": 3,
+                                                                                "api": "csp_SaoHuo",
+                                                                                      "searchable": 1,
+                                                                                            "quickSearch": 1,
+                                                                                                  "filterable": 1,
+                                                                                                        "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+                                                    },
+                                                     
+                                                       {
+                                                                 "key": "fxzjpyy",
+                                                                       "name": "️️️️️️️️️️️️❤️金牌",
+                                                                             "type": 3,
+                                                                                   "api": "csp_Jpys",
+                                                                                         "searchable": 1,
+                                                                                               "changeable": 1,
+                                                                                                     "playerType": 1,
+                                                                                                           "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"
+                                                       },  
+
+                                                           {
+                                                                     "key": "atys",
+                                                                           "name": "❤️奥特",
+                                                                                 "type": 3,
+                                                                                       "api": "csp_Auete",
+                                                                                             "searchable": 1,
+                                                                                                   "quickSearch": 1,
+                                                                                                         "changeable": 1,
+                                                                                                               "timeout": 15,
+                                                                                                                     "ext": "https://auete.pro/",
+                                                                                                                           "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
+                                                           },
+                                                              
+                                                                   {
+                                                                             "key": "暴风采集",
+                                                                                   "name": "❤️暴风",
+                                                                                         "type": 1,
+                                                                                               "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+                                                                                                     "playUrl": "",
+                                                                                                           "categories": [
+                                                                                                                       "国产剧",
+                                                                                                                               "国产动漫",
+                                                                                                                                       "动作片",
+                                                                                                                                               "科幻片",
+                                                                                                                                                       "剧情片",
+                                                                                                                                                               "喜剧片",
+                                                                                                                                                                       "爱情片",
+                                                                                                                                                                               "恐怖片",
+                                                                                                                                                                                       "战争片",
+                                                                                                                                                                                               "香港剧",
+                                                                                                                                                                                                       "台湾剧",
+                                                                                                                                                                                                               "日本剧",
+                                                                                                                                                                                                                       "欧美剧",
+                                                                                                                                                                                                                               "泰国剧",
+                                                                                                                                                                                                                                       "日本动漫",
+                                                                                                                                                                                                                                               "综艺频道",
+                                                                                                                                                                                                                                                       "大陆综艺",
+                                                                                                                                                                                                                                                               "港台综艺",
+                                                                                                                                                                                                                                                                       "日本综艺",
+                                                                                                                                                                                                                                                                               "新马泰综艺",
+                                                                                                                                                                                                                                                                                       "纪录片"
+                                                                                                           ]
+                                                                   },
+
+                                                                       {"key":"大师兄",
+                                                                       "name":"❤️师兄",
+                                                                       "type":3,
+                                                                       "api":"csp_XBPQ",
+                                                                       "ext":{"简介":"+剧情介绍：&&</p >","分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},
+                                                                       "jar": "https://git.acwing.com/wuyou/tvbox/-/raw/main/jar/xbpq%E6%96%B0%E7%89%88.jar?inline=false"},
+
+
+                                                                       {"key":"8号影院",
+                                                                       "name":"❤️八号",
+                                                                       "type":3,
+                                                                       "api":"csp_XBPQ",
+                                                                       "searchable":1,
+                                                                       "quickSearch":1,
+                                                                       "filterable":1,
+                                                                       "jar": "https://xn--0um-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",
+                                                                       "ext":{"搜索url":"http://www.soutiyi.com/search.php?searchword={wd}",
+                                                                       "搜索链接":"href=\"&&\"",
+                                                                       "简介":"请勿相信影片中的广告，以免上当受骗。+<pclass=\"col-pddetail\"&&</span>",
+                                                                       "线路数组":"<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>",
+                                                                       "线路标题":"蓝光专线",
+                                                                       "分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
+                                                                       "分类":"动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"}},
+
+                                                                       {"key":"天天",
+                                                                       "name":"❤️天天",
+                                                                       "type":3,
+                                                                       "api":"csp_AppTT",
+                                                                       "searchable":1,
+                                                                       "quickSearch":1,
+                                                                       "filterable":1,
+                                                                       "jar": "https://xn--0um-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81"
+                                                                       },
+
+                                                                       {
+                                                                                 "key": "KTV歌厅",
+                                                                                       "name": "💙歌厅",
+                                                                                             "type": 3,
+                                                                                                   "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+                                                                                                         "searchable": 1,
+                                                                                                               "quickSearch": 1,
+                                                                                                                     "filterable": 1,
+                                                                                                                           "order_num": 0,
+                                                                                                                                 "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/KTV歌厅.js",
+                                                                                                                                       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765"
+                                                                       },
+                                                                        
+                                                                             {
+                                                                                       "key": "Biliych",
+                                                                                             "name": "💙演唱会",
+                                                                                                   "type": 3,
+                                                                                                         "api": "csp_Bili",
+                                                                                                               "searchable": 0,
+                                                                                                                     "changeable": 0,
+                                                                                                                           "style": {
+                                                                                                                                       "type": "rect",
+                                                                                                                                               "ratio": 1.597
+                                                                                                                           },
+                                                                                                                                 "ext": "https://xn--dvc-mf3g9f.v.nxog.top/m/Bilibili/演唱会.json"
+                                                                             },
+
+                                                                                 {
+                                                                                           "key": "Iktv",
+                                                                                                 "name": "💙MV",
+                                                                                                       "type": 3,
+                                                                                                             "api": "csp_Bili",
+                                                                                                                   "style": {
+                                                                                                                               "type": "rect",
+                                                                                                                                       "ratio": 1.597
+                                                                                                                   },
+                                                                                                                         "searchable": 0,
+                                                                                                                               "quickSearch": 0,
+                                                                                                                                     "changeable": 0,
+                                                                                                                                           "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+                                                                                 },
+                                                                                    
+                                                                                        {
+                                                                                                  "key": "酷奇",
+                                                                                                        "name": "💙酷奇",
+                                                                                                              "type": 3,
+                                                                                                                    "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+                                                                                                                          "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+                                                                                                                                "style": {
+                                                                                                                                            "type": "rect",
+                                                                                                                                                    "ratio": 1.597
+                                                                                                                                },
+                                                                                                                                      "searchable": 0,
+                                                                                                                                            "quickSearch": 0,
+                                                                                                                                                  "changeable": 0
+                                                                                        },
+
+                                                                                            {
+                                                                                                      "key": "Kugou",
+                                                                                                            "name": "💙酷狗",
+                                                                                                                  "type": 3,
+                                                                                                                        "api": "csp_Kugou",
+                                                                                                                              "searchable": 0,
+                                                                                                                                    "changeable": 0,
+                                                                                                                                          "jar": "https://gitee.com/zt205yzy/live-streaming-source-library/raw/jar/fm0729.jar;md5;180e5301bc663f0f47928de94f1a8c94"
+                                                                                            },
+
+                                                                                                 {
+                                                                                                           "key": "csp_Bili_Nvtuan",
+                                                                                                                 "name": "💙女团",
+                                                                                                                       "type": 3,
+                                                                                                                             "api": "csp_Bili",
+                                                                                                                                   "searchable": 0,
+                                                                                                                                         "quickSearch": 0,
+                                                                                                                                               "filterable": 1,
+                                                                                                                                                     "jar": "https://gitee.com/zt205yzy/live-streaming-source-library/raw/jar/HCCX.jar",
+                                                                                                                                                           "ext": "https://gitee.com/zt205yzy/live-streaming-source-library/raw/jar/女团.json"
+                                                                                                 },
+    {
+      "key": "玩偶",
+      "name": "👽玩偶┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+        }
+    },
+ {
+      "key": "csp_Netfixtv",
+      "name": "⚡4k┃至臻",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "ext": {
+        "site_urls": [
+          "http://www.xhww.net",
+          "http://xhww.net",
+          "https://xiaomiai.site"
+        ],
+        "url_key": "Netfixtv2",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        }
+      }
+    },
+{
+      "key": "csp_Duopan",
+      "name": "⚡4K┃蜡笔",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "ext": {
+        "site_urls": [
+          "https://duopan.fun",
+          "http://labipan.com",
+          "http://feimaoai.site",
+          "https://mihdr.top"
+        ],
+        "url_key": "Duopan2"
+      }
+    },
+{
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "⚡4K┃玩偶",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "ext": "https://www.wogg.net"
+    }, 
+    {
+      "key": "Lib",
+      "name": "🌟立播┃秒播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "zxzj",
+      "name": "🍊在线┃秒播",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "欢视",
+      "name": "👓欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+    },
+{"key":"音乐","name":"音乐","type":3,"api":"csp_Bili","jar": "https://gitee.com/yuan301/tv/raw/master/jar/xc.jar","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/yuan301/tv/raw/master/音乐.json"},                                                                                                                                                                        {
+                                                                                                                   "key": "csp_Bili_xuqu1",
+                                                                                                                         "name": "💚哔哩戏曲",
+                                                                                                                               "type": 3,
+                                                                                                                                     "api": "csp_Bili",
+                                                                                                                                           "searchable": 0,
+                                                                                                                                                 "quickSearch": 0,
+                                                                                                                                                       "filterable": 1,
+                                                                                                                                                             "jar": "https://gitee.com/zt205yzy/live-streaming-source-library/raw/jar/HCCX.jar",
+                                                                                                                                                                   "ext": "https://gitee.com/zt205yzy/live-streaming-source-library/raw/jar/戏曲.json"
+                                                                                                         },
+
+                                                                                                            {
+                                                                                                                      "key": "hipy_js_一曲肝肠断",
+                                                                                                                            "name": "💚梨园戏曲",
+                                                                                                                                  "type": 3,
+                                                                                                                                        "api": "https://d.kstore.dev/download/4708/omg/drpy_libs/drpy2.min.js",
+                                                                                                                                              "searchable": 1,
+                                                                                                                                                    "quickSearch": 1,
+                                                                                                                                                          "filterable": 1,
+                                                                                                                                                                "order_num": 0,
+                                                                                                                                                                      "ext": "https://d.kstore.dev/download/4708/omg/js/一曲肝肠断.js",
+                                                                                                                                                                            "jar": "https://d.kstore.dev/download/4708/omg/xmbjm.jar"},
+{"key": "相声小品","name": "相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitee.com/yuan301/tv/raw/master/相声小品.json","jar": "https://gitee.com/yuan301/tv/raw/master/jar/xc.jar"}
+                 ],
+
+ "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+  "lives": [   
+    {
+      "name": "IPV6①",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ljf9096/ds1/master/output/zb1.txt",
+      "playerType": 1
+    }
+  ]
+}
