@@ -764,7 +764,13 @@
       "epg": "https://epg.v1.mk/json?ch=频道名&date=日期",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
+{
+      "name": "看电视吧",
+      "type": 0,
+      "url": "http://8.138.7.223/live.txt",
+      "playerType": 1
+    },
+{
       "name": "直播1",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds1/output/zb1.txt",
