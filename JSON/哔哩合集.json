@@ -41,8 +41,8 @@
             "type_id": "说案"
         },
         {
-            "type_name": "知名UP主",
-            "type_id": "知名UP主"
+            "type_name": "hahe",
+            "type_id": "hahe"
         },
         {
             "type_name": "探索发现",
@@ -2388,7 +2388,7 @@
                 ]
             }
         ],
-        "知名UP主": [
+        "hahe": [
             {
                 "key": "order",
                 "name": "排序",
