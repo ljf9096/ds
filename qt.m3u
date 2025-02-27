@@ -10,6 +10,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000034
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="./logo/CCTV2.png" group-title="📡央视频道",CCTV-2
 http://39.134.65.106/PLTV/88888888/224/3221226079/1.m3u8
+http://120.76.248.139/live/bfgd/4200000070.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="./logo/CCTV3.png" group-title="📡央视频道",CCTV-3
 http://39.134.65.106/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="./logo/CCTV4.png" group-title="📡央视频道",CCTV-4
