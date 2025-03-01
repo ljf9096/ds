@@ -768,6 +768,12 @@
       "playerType": 1
     },
 {
+      "name": "河南为主源",
+      "type": 0,
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
+      "playerType": 1
+    },
+{
       "name": "Govin我源1",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds1/output/zb1.txt",
