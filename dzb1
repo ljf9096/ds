@@ -15,7 +15,7 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
       },
 {"key":"哔哩音乐","name":"哔哩┃音乐","type":3,"api":"csp_Bili","ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/哔哩音乐.json","jar":"https://gitee.com/yuan301/tv/raw/master/jar/mao1122.jar"},
-{"key":"相声小品","name":"📚相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/相声小品.json","jar":"https://gitee.com/yuan301/tv/raw/master/jar/mao1122.jar"},
+{"key":"相声小品","name":"📚相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/相声小品.json"},
        {
       "key": "原创",
       "name": "☀原创┃不卡",
