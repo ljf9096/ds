@@ -1,0 +1,267 @@
+{"spider":"./jar/77.jar;md5;ec8426171067c26543cea53ccd572c94",
+"hosts":["cache.ott.fifalive.itv.cmvideo.cn=base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"],
+"lives":[{"name":"刚哥无敌","type":0,"url":"./jar/ok.png","ua":"okhttp/3.15","timeout":5,"epg":"https://epg.v1.mk/json?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}],
+"logo":"./jar/logo.gif",
+"sites":[{"key":"首页","name":"【请勿相信视频中的广告】","type":3,"api":"csp_Douban","categories":["热门电影","热播剧集","电影筛选","电视筛选"],"searchable":0},
+//---巧计qj---
+{"key": "热播","name": "热播┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "caHR0cDovL3YucmJvdHYuY24=","categories":["电影","内地","动漫","综艺"],"jar":"./jar/qj.jar"},
+{"key": "天天","name": "天天┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","categories":["电影","内地","动漫","综艺"],"jar": "./jar/qj.jar"},
+{"key": "追剧","name": "追剧┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "daHR0cDovL3YubGt1eXMuY24=","jar":"./jar/qj.jar"},
+//---巧计0109---
+{"key": "巧技","name": "巧技┃刚哥YYDS","type": 3,"api": "csp_qiao2","ext": "./jar/巧计.js","jar":"./jar/qj0109.jar"},
+{"key": "巧巧","name": "巧巧┃刚哥YYDS","type": 3,"api": "csp_AI","searchable": 1,"quickSearch": 1,"ext":"faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk=","jar":"./jar/qj0109.jar"},
+{"key": "计计","name": "计计┃刚哥YYDS","type": 3,"api": "csp_AI","searchable": 1,"quickSearch": 1,"ext":"haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ==","jar":"./jar/qj0109.jar"},
+{"key": "优质","name": "优质┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"./jar/qj0109.jar"},
+{"key": "剧评","name": "剧评┃刚哥YYDS","type": 3,"api": "csp_Jpys","ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==","jar":"./jar/qj0109.jar"},
+{"key": "木头","name": "木头┃刚哥YYDS","type": 3,"api": "csp_Shark","ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=","jar":"./jar/qj0109.jar"},
+{"key": "柠檬","name": "柠檬┃刚哥YYDS","type": 3,"api": "csp_Nmvod","ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9","jar":"./jar/qj0304.jar"},
+{"key": "蝴蝶","name": "蝴蝶┃刚哥YYDS","type": 3,"api": "csp_Hudie","ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"./jar/qj0109.jar"},
+{"key": "玉米","name": "玉米┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg==","jar":"./jar/qj0109.jar"},
+{"key": "木叶","name": "木叶┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc=","jar":"./jar/qj0109.jar"},
+{"key": "快看","name": "快看┃刚哥YYDS","type": 3,"api": "csp_Kuaikan","jar":"./jar/qj0109.jar"},
+{"key": "现代","name": "现代┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ=","jar":"./jar/qj0109.jar"},
+{"key": "三六","name": "三六┃刚哥YYDS","type": 3,"api": "csp_SP360","ext": "","jar":"./jar/qj0109.jar"},
+{"key": "立播","name": "立播┃刚哥YYDS","type": 3,"api": "csp_Lib","ext": "faHR0cHM6Ly93d3cubGlidmlvLmNjL3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM=","jar":"./jar/qj0109.jar"},
+//---巧计0304---
+{"key": "油条","name": "油条┃刚哥YYDS","type": 3,"api": "csp_Muou","ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==","jar":"./jar/qj0304.jar"},
+{"key": "布布","name": "布布┃刚哥YYDS","type": 3,"api": "csp_Czsapp","ext": "maHR0cHM6Ly93d3cuc3ViYWliYWkuY29tLw==","jar":"./jar/qj0304.jar"},
+{"key": "雨滴","name": "雨滴┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw","jar":"./jar/qj0304.jar"},
+{"key": "时常","name": "时常┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "jaHR0cDovL3hpZHoubWlhb3d1LmNsb3VkfEIyMEIwNjM2OTkzMjQ5NEJ8QjIwQjA2MzY5OTMyNDk0QnwxMDA=","jar":"./jar/qj0304.jar"},
+{"key": "永夜","name": "永夜┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "caHR0cHM6Ly9yeHlzeXlkcy5vc3MtY24tY2hlbmdkdS5hbGl5dW5jcy5jb20vZ2V0YXBwLnR4dHxlYmFkM2YxYTU4YjEzOTMzfGViYWQzZjFhNThiMTM5MzN8MTAw","jar":"./jar/qj0304.jar"},
+{"key": "星河","name": "星河┃刚哥YYDS","type": 3,"api": "csp_Xdai","ext": "caHR0cDovL3Rlbmd4dW55dW5hbGl5dW4ub3NzLWNuLXNoYW5naGFpLmFsaXl1bmNzLmNvbS90ZW5neHVueXVuLnR4dHxmNWUydHg1M3lrcDZzMmM5fGY1ZTJ0eDUzeWtwNnMyYzl8MzYx","jar":"./jar/qj0304.jar"},
+{"key": "主角","name": "主角┃刚哥YYDS","type": 3,"api": "csp_Muou","ext": "caHR0cHM6Ly9tdW91YXBwLmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44","jar":"./jar/qj0304.jar"},
+//---网盘77---
+//{"key": "配置","name": "配置中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0},
+{"key": "磁力","name": "磁力✨-4K-","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com"},
+        {
+            "key": "闪电",
+            "name": "闪电✨-4K-",
+            "type": 3,
+            "api": "csp_闪电",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶✨-4K-",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt",
+                "wogg": true
+            }
+        },
+        {
+            "key": "木偶",
+            "name": "木偶✨-4K-",
+            "type": 3,
+            "api": "csp_木偶",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "多多",
+            "name": "多多✨-4K-",
+            "type": 3,
+            "api": "csp_多多",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "蜡笔",
+            "name": "蜡笔✨-4K-",
+            "type": 3,
+            "api": "csp_蜡笔",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "至臻",
+            "name": "至臻✨-4K-",
+            "type": 3,
+            "api": "csp_至臻",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "欧歌",
+            "name": "欧歌✨-4K-",
+            "type": 3,
+            "api": "csp_欧歌",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "小米",
+            "name": "小米✨-4K-",
+            "type": 3,
+            "api": "csp_小米",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "下饭",
+            "name": "下饭✨-4K-",
+            "type": 3,
+            "api": "csp_下饭",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "虎斑",
+            "name": "虎斑✨-4K-",
+            "type": 3,
+            "api": "csp_虎斑",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "二小",
+            "name": "二小✨-4K-",
+            "type": 3,
+            "api": "csp_二小",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "百家",
+            "name": "百家✨-4K-",
+            "type": 3,
+            "api": "csp_百家",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "大玩",
+            "name": "大玩✨-4K-",
+            "type": 3,
+            "api": "csp_大玩",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+        {
+            "key": "米搜",
+            "name": "米搜✨-4K-",
+            "type": 3,
+            "api": "csp_MiPanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "./jar/quark.txt",
+                "uc_cookie": "./jar/uc.txt"
+            }
+        },
+//---小米0319---
+{"key": "短剧","name": "短剧┃刚哥YYDS","type": 3,"api": "csp_AppXYGuard","jar":"./jar/mi0319.jar"},
+{"key": "流光","name": "流光┃刚哥YYDS","type": 3,"api": "csp_FreeOkGuard","jar":"./jar/mi0319.jar"},
+{"key": "火火","name": "火火┃刚哥YYDS","type": 3,"api": "csp_SaoHuoGuard","jar":"./jar/mi0319.jar"},
+{"key": "奇妙","name": "奇妙┃刚哥YYDS","type": 3,"api": "csp_AppGetGuard","ext": "sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw==","jar":"./jar/mi0319.jar"},
+{"key": "光速","name": "光速┃刚哥YYDS","type": 3,"api": "csp_AppGetGuard","ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA==","jar":"./jar/mi0319.jar"},
+{"key": "优秀","name": "优秀┃刚哥YYDS","type": 3,"api": "csp_AppGetGuard","ext": "rpb8IjZTuzYSqZNn/sGvG+nmDP6c5rlJM5DTXdn6d/OdwIl8hAgvoCnQmL7YkzCXHe+hpViArom3TFB7ORHGx8Gsyk/NiHE7VuNzVMP/C+/r78ogd9EF54Pi+n6PkOaxl7jEppsqJjozMoCPS929dwPWfx4NGsZnpVFvANeZUOzlo4RKfmAaN35kAo+7amKcqawPF/jPPsCEXambLeH+PqICmlcdkCN+3k+Dft4Z8iA=","jar":"./jar/mi0319.jar"},
+{"key": "︎米兔","name": "米兔┃刚哥YYDS","type": 3,"api": "csp_AppGetGuard","ext": "sHR2rlsfjI4L3t4RXQMkn4/zRHG7KueeJHsenaeUMOWp1EzObBSdbU9et5QXxSbLZNx3dMChdqtSieuV5wZj006LehfFeCmj8B095j2lIKIF0YoQe+MZcPjGy7gtOViYZ6wvyGkzWk6oD1mJmauAyZhYFgIf28dxzY5kbxJVtI2PjlO6xlD2NRNjVM5uVtSkhN2Pf9gmJ5qaWk40c4YC+w==","jar":"./jar/mi0319.jar"},
+{"key": "电影","name": "电影┃刚哥YYDS","type": 3,"quickSearch": 0,"api": "csp_AppGetGuard","ext": "KsP46vke46cPylpEP8h9kZQJOZt+JFV0mLhSq1biyJHvVsOks76ATO6+1K5bMVwKoqUvbaJnqQw0qiRAw0clHVzc5nwgXHppf37s+mKJzTalSdw77exZP67VWFx0pLwky0XcMUIQ9YFHmMIHR3XI1BmEqAemBbCm8ULBqAe9laKmHMoGZOUdnIvPcBk2POPi2ti4ZJNrHQhuVqgbibt7ygEMGLwhIJnmyaaUWErenDs=","jar":"./jar/mi0319.jar"},
+//---小米0224---
+{"key": "添添","name": "添添┃刚哥YYDS","type": 3,"api": "csp_AppRJ","ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK","jar":"./jar/mi0224.jar"},
+{"key": "热热","name": "热热┃刚哥YYDS","type": 3,"api": "csp_AppRJ","ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb","jar":"./jar/mi0224.jar"},
+{"key": "追追","name": "追追┃刚哥YYDS","type": 3,"api": "csp_AppRJ","ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM","jar":"./jar/mi0224.jar"},
+{"key": "农民","name": "农民┃刚哥YYDS","type": 3,"api": "csp_Wwys","ext": "https://www.wwgz.cn","jar":"./jar/mi0224.jar"},
+{"key": "金牌","name": "金牌┃刚哥YYDS","type": 3,"api": "csp_Jpys","jar":"./jar/mi0224.jar"},
+{"key": "瓜子","name": "瓜子┃刚哥YYDS","type": 3,"api": "csp_Gz360","jar":"./jar/mi0224.jar"},
+{"key": "来看","name": "来看┃刚哥YYDS","type": 3,"api": "csp_Lkdy","jar":"./jar/mi0224.jar"},
+//---肥猫1122+XBPQ---
+{"key":"云播","name":"云播┃刚哥YYDS","type":3,"api":"csp_Tvyb","jar":"./jar/mao1122.jar"},
+{"key":"奇优","name":"奇优┃刚哥YYDS","type":3,"api":"csp_XBPQ","jar":"./jar/mao1122.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/奇优.js"},
+{"key":"好影","name":"好影┃刚哥YYDS","type":3,"api":"csp_XBPQ","jar":"./jar/mao1122.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/好影.js"},
+//---VOD---
+{"key":"爱克","name":"爱克┃刚哥YYDS","type":1,"api":"https://www.ikunzy.com/api.php/provide/vod/","categories":["国产剧"]},
+{"key":"卧龙","name":"卧龙┃刚哥YYDS","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","categories":["国产剧"]},
+{"key":"速播","name":"速播┃刚哥YYDS","type":1,"api":"https://subocaiji.com/api.php/provide/vod","categories":["大陆剧"]},
+{"key":"魔都","name":"魔都┃刚哥YYDS","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod","categories":["国产剧"]},
+{"key":"暴风","name":"暴风┃刚哥YYDS","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","categories":["国产剧"]},
+{"key":"极速","name":"极速┃刚哥YYDS","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","categories":["内地剧"]},
+{"key":"天亦","name":"天亦┃刚哥YYDS","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","categories":["国产剧"]},
+{"key":"量子","name":"量子┃刚哥YYDS","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","categories":["电影片"]},
+{"key":"红牛","name":"红牛┃刚哥YYDS","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod","categories":["国产剧"]},
+{"key":"哔哩合集","name":"哔哩┃合集","type":3,"api":"csp_Bili","ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/哔哩合集.json","jar":"./jar/mao1122.jar"},
+{"key":"哔哩音乐","name":"哔哩┃音乐","type":3,"api":"csp_Bili","ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/哔哩音乐.json","jar":"./jar/mao1122.jar"},
+{"key":"相声小品","name":"📚相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/相声小品.json","jar":"./jar/mao1122.jar"}
+]}
