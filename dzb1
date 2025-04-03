@@ -199,7 +199,6 @@
 {"key":"红牛","name":"红牛┃刚哥YYDS","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod","categories":["国产剧"]},
 {"key":"哔哩合集","name":"哔哩┃合集","type":3,"api":"csp_Bili","ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/哔哩合集.json","jar":"./jar/mao1122.jar"},
 {"key":"哔哩音乐","name":"哔哩┃音乐","type":3,"api":"csp_Bili","ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/哔哩音乐.json","jar":"./jar/mao1122.jar"},
-{"key":"相声小品","name":"📚相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://codeberg.org/yuan301/tv/raw/branch/main/jar/相声小品.json","jar":"./jar/mao1122.jar"},
 
 {
       "key": "相声小品",
