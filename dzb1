@@ -535,6 +535,7 @@
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/58cbbf5395d4468cb4180b57c2834102.jpg"
     },
+//---巧计qj---
 {"key": "热播","name": "热播┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "caHR0cDovL3YucmJvdHYuY24=","categories":["电影","内地","动漫","综艺"],"jar": "https://ghproxy.net/https://raw.githubusercontent.com/ljf9096/db/master/jar/qj.jar"},
 {"key": "天天","name": "天天┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","categories":["电影","内地","动漫","综艺"],"jar": "./jar/qj.jar"},
 {"key": "追剧","name": "追剧┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "daHR0cDovL3YubGt1eXMuY24=","jar":"./jar/qj.jar"},
