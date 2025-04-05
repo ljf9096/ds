@@ -1,6 +1,6 @@
 
 {
-    
+    "spider":"./spider.jar",
     
     "sites":[
         {
@@ -78,7 +78,7 @@
             },
             "timeout": 10
         },
-{"spider":"./spider.jar",
+{
             "key": "哔哩合集",
             "name": "哔哩合集｜弹幕",
             "type": 3,
