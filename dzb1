@@ -1139,21 +1139,7 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
       },
 
-{
-            "key": "预告",
-            "name": "新片｜预告",
-            "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0
-        },
-        {
-            "key": "豆瓣1",
-            "name": "豆瓣1｜首页",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
-{"key": "热播1","name": "热播┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "caHR0cDovL3YucmJvdHYuY24=","categories":["电影","内地","动漫","综艺"],"jar": "https://ghproxy.net/https://raw.githubusercontent.com/ljf9096/db/master/jar/qj.jar"},
+{"key": "热播1","name": "热播┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "caHR0cDovL3YucmJvdHYuY24=","categories":["电影","内地","动漫","综艺"],"jar": "./jar/qj.jar"},
 {"key": "天天","name": "天天┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==","categories":["电影","内地","动漫","综艺"],"jar": "./jar/qj.jar"},
 {"key": "追剧","name": "追剧┃刚哥YYDS","type": 3,"api": "csp_TTian","ext": "daHR0cDovL3YubGt1eXMuY24=","jar":"./jar/qj.jar"},
 {"key": "木头","name": "木头┃刚哥YYDS","type": 3,"api": "csp_Shark","ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=","jar":"./jar/qj0109.jar"},
