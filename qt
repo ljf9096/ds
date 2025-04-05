@@ -1082,13 +1082,6 @@
             "ext": "./JSON/alist.json"
         },
         {
-            "key": "网络直播",
-            "name": "网络｜直播",
-            "type": 3,
-            "api": "csp_Living",
-            "searchable": 1
-        },
-        {
             "key": "急救教学",
             "name": "急救｜教学",
             "type": 3,
