@@ -1,6 +1,8 @@
 
 {
-    "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733131789935/fan.txt;md5;99b6c138ce197b9cd89ccf9dc26a37bc:https://gitee.com/qttv/tv/rae/master/spider.jar",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733131789935/fan.txt;md5;99b6c138ce197b9cd89ccf9dc26a37bc:./spider.jar",
+ "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "warningText": "磨砺声明：资源来自网络，无盈利，仅供学习测试，请勿用于违法及商业用途，请勿付费购买，测试之后请自行删除",
 
     "sites":[
         {
