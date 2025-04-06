@@ -240,27 +240,6 @@
                 "danmu": true
             }
         },
-        
-        
-        {
-            "key": "雷鲸",
-            "name": "雷鲸｜4K",
-            "type": 3,
-            "api": "csp_Wexleijing",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./wex.jar"
-        },
-
-        {
-            "key": "盘他",
-            "name": "盘他｜4K‍",
-            "type": 3,
-            "api": "csp_WexYDpanta",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./wex.jar"
-        },
 
         {
             "key": "星芽短剧",
@@ -880,34 +859,7 @@
                 "ratio": 3.8
             }
         },
-        
-        {
-            "key": "配置中心",
-            "name": "配置｜中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
-            "key": "影视配置",
-            "name": "影视｜配置",
-            "type": 3,
-            "api": "csp_Wexconfig",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "jar": "./wex.jar"
-        },
+       
       {
       "key": "热播",
       "name": "📺热播┃多线",
