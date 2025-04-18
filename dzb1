@@ -1419,9 +1419,9 @@
       "playerType": 1
     },
      {
-      "name": "歌曲",
+      "name": "kimentanm",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/ljf9096/gq/main/%E6%AD%8C%E6%9B%B2.txt",
+      "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/hnyd.m3u",
       "playerType": 1
     }
   ]
