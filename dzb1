@@ -1382,6 +1382,18 @@
       "url": "https://gitee.com/qttv/tv/raw/master/qt.m3u",
       "playerType": 1
     },
+{
+      "name": "kimentanm",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/hnyd.m3u",
+      "playerType": 1
+    },
+   {
+      "name": "河南为主源",
+      "type": 0,
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
+      "playerType": 1
+    },
     {
       "name": "范明明源",
       "type": 0,
@@ -1400,12 +1412,6 @@
       "url": "https://gitee.com/li-family-junior/zb/raw/master/ZB.txt",
       "playerType": 1
     }, 
-   {
-      "name": "河南为主源",
-      "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
-      "playerType": 1
-    },
      {
       "name": "看电视吧",
       "type": 0,
@@ -1417,12 +1423,6 @@
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
       "playerType": 1
-    },
-     {
-      "name": "kimentanm",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/hnyd.m3u",
-      "playerType": 1
-    }
+    }  
   ]
 }
