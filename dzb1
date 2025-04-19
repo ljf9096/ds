@@ -1388,6 +1388,12 @@
       "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/hnyd.m3u",
       "playerType": 1
     },
+     {
+      "name": "lizanyang",
+      "type": 0,
+      "url": "https://live.lizanyang.top/hn.m3u",
+      "playerType": 1
+    },
    {
       "name": "河南为主源",
       "type": 0,
@@ -1412,12 +1418,6 @@
       "type": 0,
       "url": "http://8.138.7.223/live.txt",
       "playerType": 1
-    },
-     {
-      "name": "Govin源",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
-      "playerType": 1
-    }  
+    }
   ]
 }
