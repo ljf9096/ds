@@ -1394,6 +1394,12 @@
       "url": "https://live.lizanyang.top/hn.m3u",
       "playerType": 1
     },
+{
+      "name": "a736240084",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/a736240087/tvbox@main/tvlive/tvlive.txt",
+      "playerType": 1
+    }, 
    {
       "name": "河南为主源",
       "type": 0,
@@ -1404,13 +1410,6 @@
       "name": "范明明源",
       "type": 0,
       "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    },
-      
-  {
-      "name": "a736240084",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/a736240087/tvbox@main/tvlive/tvlive.txt",
       "playerType": 1
     }, 
      {
