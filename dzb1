@@ -1400,6 +1400,13 @@
       "url": "https://cdn.jsdelivr.net/gh/a736240087/tvbox@main/tvlive/tvlive.txt",
       "playerType": 1
     }, 
+
+{
+      "name": "xuelong876",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/xuelong876/kodi@main/yd.m3u",
+      "playerType": 1
+    }, 
    {
       "name": "河南为主源",
       "type": 0,
