@@ -1386,6 +1386,7 @@
       "name": "lizanyang",
       "type": 0,
       "url": "https://live.lizanyang.top/hn.m3u",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
