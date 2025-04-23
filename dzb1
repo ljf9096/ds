@@ -1419,17 +1419,17 @@
       "playerType": 1
     },
     {
-      "name": "李家大少",
+      "name": "通用2",
       "type": 0,
-      "url": "https://gitee.com/li-family-junior/zb/raw/master/ZB.txt",
+      "url": "https://cdn.jsdelivr.net/gh/gtgnb/tvbox@main/myiptv.m3u",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
 
      {
-      "name": "看电视吧",
+      "name": "通用1",
       "type": 0,
-      "url": "http://8.138.7.223/live.txt",
+      "url": "https://gitee.com/xxxydnw/Migu/raw/master/MYIPTV",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }
