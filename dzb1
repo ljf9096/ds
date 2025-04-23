@@ -1436,7 +1436,7 @@
       "name": "通用1",
       "type": 0,
       "url": "https://gitee.com/xxxydnw/Migu/raw/master/MYIPTV",
-     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date},http://cdn.78520.xyz/epg/?ch={name}&date={date}",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
