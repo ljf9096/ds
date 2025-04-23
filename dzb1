@@ -1380,6 +1380,7 @@
       "name": "麒桐影视",
       "type": 0,
       "url": "https://gitee.com/qttv/tv/raw/master/qt.m3u",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
@@ -1393,30 +1394,35 @@
       "name": "xuelong876",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/xuelong876/kodi@main/yd.m3u",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
 {
       "name": "kimentanm",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/hnyd.m3u",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },    
 {
       "name": "a736240084",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/a736240087/tvbox@main/tvlive/tvlive.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
    {
       "name": "河南为主源",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
     {
       "name": "李家大少",
       "type": 0,
       "url": "https://gitee.com/li-family-junior/zb/raw/master/ZB.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
 
@@ -1424,6 +1430,7 @@
       "name": "看电视吧",
       "type": 0,
       "url": "http://8.138.7.223/live.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
