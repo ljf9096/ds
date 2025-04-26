@@ -1419,9 +1419,10 @@
       "playerType": 1
     },
     {
-      "name": "通用3.m3u",
+      "name": "通用3",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/gtgnb/tvbox@main/myiptv.m3u",
+       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
    {
