@@ -1422,7 +1422,7 @@
       "name": "通用3",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/gtgnb/tvbox@main/myiptv.m3u",
-     "epg": "https://w.ljf.work.gd/e.xml",
+     "epg": "https://ngio.xyz/e.xml",
       "playerType": 1
     }, 
    {
@@ -1444,7 +1444,7 @@
       "name": "通用0",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby1.txt",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
