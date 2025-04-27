@@ -1433,9 +1433,9 @@
       "playerType": 1
     }, 
      {
-      "name": "通用1",
+      "name": "jin-xueling",
       "type": 0,
-      "url": "https://gitee.com/xxxydnw/Migu/raw/master/MYIPTV",
+      "url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
