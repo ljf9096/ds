@@ -1451,7 +1451,7 @@
       "name": "通用",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
-      "epg": "https://live.fanmingming.cn/e.xml",
+      "epg": "http://epg.njio.xyz/diyp.html",
       "playerType": 1
     }
   ]
