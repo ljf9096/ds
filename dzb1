@@ -1439,7 +1439,13 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
-
+     {
+      "name": "移动1",
+      "type": 0,
+      "url": "https://gitee.com/luojxue/tv/blob/master/zb1.php",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    },
 {
       "name": "通用0",
       "type": 0,
