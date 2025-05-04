@@ -1457,7 +1457,7 @@
       "name": "通用",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
-      "epg": "http://epg.njio.xyz/e.html",
+      "epg": "https://epg.v1.mk/fy.xml",
       "playerType": 1
     }
   ]
