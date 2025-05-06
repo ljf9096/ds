@@ -1410,28 +1410,7 @@
       "url": "https://cdn.jsdelivr.net/gh/a736240087/tvbox@main/tvlive/tvlive.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
-    }, 
-   {
-      "name": "河南为主源",
-      "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    },
-    {
-      "name": "通用3",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/gtgnb/tvbox@main/myiptv.m3u",
-       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    }, 
-   {
-      "name": "通用2",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    }, 
+    },    
      {
       "name": "移动",
       "type": 0,
@@ -1439,22 +1418,43 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
+   {
+      "name": "河南为主通用源",
+      "type": 0,
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    },
      {
-      "name": "移动1",
+      "name": "通用5",
       "type": 0,
       "url": "https://gitee.com/luojxue/tv/raw/master/zb1.php",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
-      "name": "通用0",
+      "name": "通用4",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/gtgnb/tvbox@main/myiptv.m3u",
+       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    }, 
+{
+      "name": "通用3",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    }, 
+{
+      "name": "通用2",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby1.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
-      "name": "通用",
+      "name": "通用1",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
       "epg": "https://diyp99.112114.xyz",
