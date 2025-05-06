@@ -1447,7 +1447,7 @@
       "playerType": 1
     }, 
 {
-      "name": "通用2",
+      "name": "联通",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby1.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
