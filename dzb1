@@ -1426,35 +1426,35 @@
       "playerType": 1
     },
      {
-      "name": "通用5",
+      "name": "通用2",
       "type": 0,
       "url": "https://gitee.com/sy68/tv/raw/tv/zby",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
-      "name": "通用4",
+      "name": "联通3",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/gtgnb/tvbox@main/myiptv.m3u",
        "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
 {
-      "name": "通用3",
+      "name": "联通2",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
 {
-      "name": "联通",
+      "name": "联通1",
       "type": 0,
       "url": "https://gitee.com/wbdy/tv/raw/master/live.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
-      "name": "通用1",
+      "name": "通用",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
       "epg": "https://diyp99.112114.xyz",
