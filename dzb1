@@ -1428,7 +1428,7 @@
      {
       "name": "通用5",
       "type": 0,
-      "url": "https://gitee.com/luojxue/tv/raw/master/zb1.php",
+      "url": "https://gitee.com/sy68/tv/raw/tv/zby",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
@@ -1449,7 +1449,7 @@
 {
       "name": "联通",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby1.txt",
+      "url": "https://gitee.com/wbdy/tv/raw/master/live.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
