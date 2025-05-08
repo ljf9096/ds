@@ -1383,6 +1383,13 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
+ {
+      "name": "移动",
+      "type": 0,
+      "url": "http://39.162.21.133:88/tv.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    },
 {
       "name": "lizanyang",
       "type": 0,
@@ -1411,13 +1418,7 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },    
-     {
-      "name": "移动",
-      "type": 0,
-      "url": "http://39.162.21.133:88/tv.txt",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    },
+    
    {
       "name": "河南为主通用源",
       "type": 0,
