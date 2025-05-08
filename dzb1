@@ -1426,9 +1426,9 @@
       "playerType": 1
     },
      {
-      "name": "通用2",
+      "name": "联通3",
       "type": 0,
-      "url": "https://gitee.com/sy68/tv/raw/tv/zby",
+      "url": "https://cdn.jsdelivr.net/gh/zhi35/iptv@master/iptv.m3u",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
@@ -1450,7 +1450,7 @@
 {
       "name": "联通1",
       "type": 0,
-      "url": "https://gitee.com/wbdy/tv/raw/master/live.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/Rivens7/Livelist@main/IPTV.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
@@ -1458,7 +1458,7 @@
       "name": "通用",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
-      "epg": "https://diyp99.112114.xyz",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     }
   ]
