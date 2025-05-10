@@ -1418,7 +1418,22 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },    
-    
+
+{
+      "name": "sy68",
+      "type": 0,
+      "url": "https://gitee.com/sy68/tv/raw/tv/zby",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    },    
+
+{
+      "name": "sy147258",
+      "type": 0,
+      "url": "https://gitee.com/sy147258/tv/raw/master/IPTV",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    },    
    {
       "name": "河南为主通用源",
       "type": 0,
