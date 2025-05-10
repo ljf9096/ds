@@ -1431,7 +1431,7 @@
       "name": "sy147258",
       "type": 0,
       "url": "https://gitee.com/sy147258/tv/raw/master/IPTV",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+     "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },    
    {
