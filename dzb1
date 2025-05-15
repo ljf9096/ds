@@ -1435,7 +1435,7 @@
       "playerType": 1
     },    
    {
-      "name": "河南为主通用3",
+      "name": "河南为主通用4",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -1443,7 +1443,7 @@
     },
      
 {
-      "name": "通用2",
+      "name": "a2256569通用3",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -1458,16 +1458,16 @@
     }, 
 
 {
-      "name": "网页通用1",
+      "name": "网页通用2",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
 {
-      "name": "通用0",
+      "name": "ymxuit109通用1",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds2@main/itvlist.m3u",
+      "url": "https://gitee.com/ymxuit109/TV000/raw/master/ipv",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     }
