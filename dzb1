@@ -1396,7 +1396,7 @@
       "url": "https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
-
+  },
 {
       "name": "lizanyang",
       "type": 0,
