@@ -1442,13 +1442,19 @@
       "playerType": 1
     },    
    {
-      "name": "河南为主通用4",
+      "name": "河南为主通用5",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
-     
+    {
+      "name": "wbdy通用4",
+      "type": 0,
+      "url": "https://gitee.com/wbdy/tv/raw/master/live.m3u",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    }, 
 {
       "name": "ymxuit109通用3",
       "type": 0,
