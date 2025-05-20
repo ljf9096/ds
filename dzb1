@@ -1384,6 +1384,13 @@
       "playerType": 1
     },
  {
+      "name": "kilvn",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/kilvn/iptv@master/iptv.m3u",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    },
+ {
       "name": "移动",
       "type": 0,
       "url": "http://39.162.21.133:88/tv.txt",
