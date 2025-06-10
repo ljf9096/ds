@@ -1442,9 +1442,9 @@
       "playerType": 1
     },    
    {
-      "name": "河南为主通用5",
+      "name": "直播网页及电影",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Supprise0901/TVBox_live/live.txt",
+      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zbdy.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
