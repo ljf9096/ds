@@ -1474,6 +1474,7 @@
        "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
+{
       "name": "yunkaixx通用2",
       "type": 0,
       "url": "https://gitee.com/yunkaixx/tv/raw/master/live.txt",
