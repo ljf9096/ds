@@ -1449,21 +1449,21 @@
       "playerType": 1
     },
     {
-      "name": "wbdy通用4",
+      "name": "wbdy通用5",
       "type": 0,
       "url": "https://gitee.com/wbdy/tv/raw/master/live.m3u",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
 {
-      "name": "ymxuit109通用3",
+      "name": "ymxuit109通用4",
       "type": 0,
       "url": "https://gitee.com/ymxuit109/TV000/raw/master/ipv",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
 {
-      "name": "网页通用2",
+      "name": "网页通用3",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
@@ -1473,6 +1473,12 @@
       "name": "联通1",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/gtgnb/tvbox@main/myiptv.m3u",
+       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    }, 
+      "name": "yunkaixx通用2",
+      "type": 0,
+      "url": "https://gitee.com/yunkaixx/tv/raw/master/live.txt",
        "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
