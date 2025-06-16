@@ -1425,7 +1425,6 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },    
-
 {
       "name": "sy68",
       "type": 0,
@@ -1433,7 +1432,6 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },    
-
 {
       "name": "sy147258",
       "type": 0,
