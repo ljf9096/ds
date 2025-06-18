@@ -1376,6 +1376,13 @@
 
 "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [ 
+{
+      "name": "通用",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/henan.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    },
      {
       "name": "麒桐影视",
       "type": 0,
@@ -1489,14 +1496,6 @@
       "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
-    },
-{
-      "name": "通用",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/henan.txt",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
     }
-
   ]
 }
