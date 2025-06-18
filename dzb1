@@ -1489,6 +1489,14 @@
       "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
+    },
+{
+      "name": "通用",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/henan.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
     }
+
   ]
 }
