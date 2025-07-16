@@ -1,64 +1,6 @@
 {
  "sites": [
     {
-      "key": "Alist",
-      "name": "🌟小雅┃高清",
-      "type": 3,
-      "api": "http://114.66.59.6:5678/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": [
-        {
-          "name": "丫仙女",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/",
-          "search": true
-        },
-        {
-          "name": "每日更新",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/每日更新"
-        },
-        {
-          "name": "电影",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/电影"
-        },
-        {
-          "name": "电视剧",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/电视剧"
-        },
-        {
-          "name": "短剧",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/每日更新/爽文短剧"
-        },
-        {
-          "name": "综艺",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/综艺"
-        },
-        {
-          "name": "纪录片",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/纪录片"
-        },
-        {
-          "name": "动漫",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/动漫"
-        },
-        {
-          "name": "儿童",
-          "server": "http://114.66.59.6:5678/",
-          "startPage": "/动漫/儿童"
-        }
-      ],
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734602329530/fan.txt;md5;7c6dbc73b47bcff6a7744f6aecedebc2"
-    },
-    {
       "key": "豆豆",
       "name": "豆瓣推片",
       "type": 3,
@@ -1462,14 +1404,6 @@
     },
 
 {
-      "name": "联通1",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/gtgnb/tvbox@main/myiptv.m3u",
-       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    }, 
-
-{
       "name": "网页通用4",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
@@ -1483,13 +1417,6 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
-{
-      "name": "yunkaixx通用2",
-      "type": 0,
-      "url": "https://gitee.com/yunkaixx/tv/raw/master/live.txt",
-       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    }, 
 {
       "name": "a2256569通用1",
       "type": 0,
