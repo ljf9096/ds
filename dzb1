@@ -85,18 +85,7 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734602329530/fan.txt;md5;7c6dbc73b47bcff6a7744f6aecedebc2"
     },
     
-    {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734602329530/fan.txt;md5;7c6dbc73b47bcff6a7744f6aecedebc2"
-    },
+
    
     {
       "key": "Auete",
@@ -145,21 +134,7 @@
                 "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
             }
         },
-        {
-            "key": "热播弹幕",
-            "name": "热播｜弹幕",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "ext": {
-                "danmu": true,
-                "site": "aHR0cDovL3YucmJvdHYuY24="
-            }
-        },
+
         {
             "key": "浪酷弹幕",
             "name": "浪酷｜弹幕",
@@ -309,76 +284,8 @@
                 "danmu": true
             }
         },
-        {
-            "key": "夸克欧歌弹幕",
-            "name": "欧哥｜4K弹幕",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://ouge.banye.tech:7086",
-                "danmu": true
-            }
-        },
-      
-        {
-            "key": "夸克多多弹幕",
-            "name": "多多｜4K弹幕",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://duoduo.banye.tech:7086",
-                "danmu": true
-            }
-        },
-     
-        {
-            "key": "星芽短剧",
-            "name": "星芽｜短剧",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "河马短剧",
-            "name": "河马｜短剧",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_AppHMDJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
-        },
-        {
-            "key": "爱看短剧",
-            "name": "爱看｜短剧",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "./PY/爱看短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+
+
         
         {
             "key": "短剧网",
@@ -410,61 +317,7 @@
             "filterable": 1
         },
         
-        {
-            "key": "猎手影视",
-            "name": "猎手｜APP",
-            "type": 3,
-            "api": "./PY/猎手影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "火车影视",
-            "name": "火车｜APP",
-            "type": 3,
-            "api": "./PY/火车影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "美帕影视",
-            "name": "美帕｜APP",
-            "type": 3,
-            "api": "./PY/美帕影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "嗨皮影视",
-            "name": "嗨皮｜APP",
-            "type": 3,
-            "api": "./PY/嗨皮影视.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-       
-        {
-            "key": "木头",
-            "name": "木头｜APP",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_Shark",
-            "playerType": 1,
-            "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-        },
-       
+
         {
             "key": "星河",
             "name": "星河｜APP",
@@ -475,15 +328,7 @@
             "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
         },
         
-        {
-            "key": "米兔",
-            "name": "米兔｜APP",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
-        },
+        
         {
             "key": "光速",
             "name": "光速｜APP",
@@ -492,25 +337,6 @@
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
-        },
-        {
-            "key": "优秀",
-            "name": "优秀｜APP",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="
-        },
-        
-        {
-            "key": "奇妙",
-            "name": "奇妙｜APP",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="
         },
        
         {
