@@ -5,6 +5,7 @@
        "name": "首选1线",
        "type": 3,
        "api": "csp_TianTian",
+       "jar":"http://175.178.182.213/1/ttkx.jar",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
@@ -32,6 +33,7 @@
       "name": "首选4线",
       "type": 3,
       "api": "csp_Hudie",
+     "jar":"http://175.178.182.213/1/ttkx.jar",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
    },
@@ -40,6 +42,7 @@
             "name": "🎦大师兄影视",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar":"http://175.178.182.213/1/ttkx.jar",
             "ext": {
                 "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
                 "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
