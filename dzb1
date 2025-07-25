@@ -1145,7 +1145,17 @@
 "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [ 
 {
-      "name": "通用",
+      "name": "通用1",
+      "type": 0,
+      "pass": true,
+      "ua": "MTV",
+      "url": "http://175.178.182.213/1/zhibo.m3u",
+      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
+      "logo": "http://175.178.182.213/tb/{name}.png"
+    },
+
+{
+      "name": "通用2",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/henan.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -1215,14 +1225,14 @@
       "playerType": 1
     },
     {
-      "name": "wbdy通用6",
+      "name": "wbdy通用7",
       "type": 0,
       "url": "https://gitee.com/wbdy/tv/raw/master/live.m3u",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
 {
-      "name": "通用5",
+      "name": "通用6",
       "type": 0,
       "url": "https://ghfast.top/https://github.com/gzj7003/tvlist/blob/main/txt_files/%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A1.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
@@ -1230,21 +1240,21 @@
     },
 
 {
-      "name": "网页通用4",
+      "name": "网页通用5",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
    {
-      "name": "网页及电影通用3",
+      "name": "网页及电影通用4",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zbdy.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
-      "name": "a2256569通用1",
+      "name": "a2256569通用3",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
