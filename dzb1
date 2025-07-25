@@ -1155,7 +1155,7 @@
     },
 
 {
-      "name": "通用2",
+      "name": "移动1",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/henan.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -1169,7 +1169,7 @@
       "playerType": 1
     },
  {
-      "name": "移动",
+      "name": "移动39.162",
       "type": 0,
       "url": "http://39.162.21.133:88/tv.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -1225,14 +1225,14 @@
       "playerType": 1
     },
     {
-      "name": "wbdy通用7",
+      "name": "wbdy",
       "type": 0,
       "url": "https://gitee.com/wbdy/tv/raw/master/live.m3u",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
 {
-      "name": "通用6",
+      "name": "gzj7003",
       "type": 0,
       "url": "https://ghfast.top/https://github.com/gzj7003/tvlist/blob/main/txt_files/%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A1.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
