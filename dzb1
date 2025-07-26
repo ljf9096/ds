@@ -1,5 +1,13 @@
 {
  "sites": [
+    {
+       "key": "drpy_js_奇珍异兽",
+       "name": "奇珍异兽",
+       "type": 3,
+       "api": "http://175.178.182.213/1/lib/drpy2.min.js",
+ "jar":"http://175.178.182.213/1/ttkx.jar",
+       "ext": "http://175.178.182.213/1/lib/奇珍异兽.js"
+    },
    {
        "key": "浪酷弹幕",
        "name": "首选1线",
@@ -49,7 +57,29 @@
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             }
         },
-
+     {
+            "key": "HDmoli",
+            "name": "🎦魔力高清",
+            "type": 3,
+            "api": "csp_XBPQ", 
+"jar": "http://175.178.182.213/1/ttkx.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://175.178.182.213/1/lib/HDmoli.json"
+        },
+     {
+            "key": "zxzj",
+            "name": "💥在线外剧💥",
+            "type": 3,
+            "api": "csp_Zxzj", 
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzjhd.com/",
+            "jar": "http://175.178.182.213/1/ZIP/fan.jar"
+        },
         {
             "key": "非凡",
             "name": "💥非凡影视💥",
@@ -58,7 +88,28 @@
             "searchable": 1,
             "changeable": 1
         },
- 
+      {
+            "key": "MV01",
+            "name": "🎵MV1线",
+            "type": 3,
+            "api": "csp_XBPQ",
+"jar": "http://175.178.182.213/1/ttkx.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.kuqimv.com",
+                "直接播放": "1",
+                "短视频": "1",
+                "分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
+                "分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
+                "数组": "<li>&&</li>",
+                "标题": "title=\"&&\"",
+                "副标题": "target=\"play\">&&<",
+                "搜索模式": "1",
+                "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
+            }
+        },
         {
             "key": "低端影视",
             "name": "🎦低端｜影视",
