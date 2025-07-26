@@ -5,7 +5,6 @@
        "name": "奇珍异兽",
        "type": 3,
        "api": "./js/drpy2.min.js",
-       "jar":"http://175.178.182.213/1/ttkx.jar",
        "ext": "./js/奇珍异兽.js"
     },
    {
