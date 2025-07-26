@@ -1,12 +1,5 @@
 {
  "sites": [
-{
-       "key": "drpy_js_奇珍异兽",
-       "name": "奇珍异兽",
-       "type": 3,
-       "api": "./js/drpy2.min.js",
-       "ext": "./js/奇珍异兽.js"
-    },
    {
        "key": "浪酷弹幕",
        "name": "首选1线",
@@ -56,29 +49,7 @@
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             }
         },
-   {
-            "key": "HDmoli",
-            "name": "🎦魔力高清",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/HDmoli.json"
-        },
 
-        {
-            "key": "zxzj",
-            "name": "💥在线外剧💥",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/",
-            "jar": "./ZIP/fan.jar"
-        },
         {
             "key": "非凡",
             "name": "💥非凡影视💥",
