@@ -1484,7 +1484,6 @@
       "type": 0,
       "url": "http://39.162.21.133:88/tv.txt",
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
  
@@ -1493,7 +1492,6 @@
       "type": 0,
       "url": "https://live.lizanyang.top/hn.m3u",
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
@@ -1501,7 +1499,6 @@
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/xuelong876/kodi@main/yd.m3u",
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
   
