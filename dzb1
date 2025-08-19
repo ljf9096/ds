@@ -1507,7 +1507,6 @@
       "type": 0,
       "url": "https://gitee.com/sy68/tv/raw/tv/zby",
     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },    
 
