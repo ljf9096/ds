@@ -1478,13 +1478,7 @@
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     },
-     {
-      "name": "麒桐影视",
-      "type": 0,
-      "url": "https://gitee.com/qttv/tv/raw/master/qt.m3u",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    },
+
  {
       "name": "移动39.162",
       "type": 0,
@@ -1492,13 +1486,7 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
- {
-      "name": "xiao5jiji",
-      "type": 0,
-      "url": "https://gitee.com/xiao5jiji/tv/raw/master/Ipv4.m3u",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-  },
+ 
 {
       "name": "lizanyang",
       "type": 0,
@@ -1513,20 +1501,7 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }, 
-{
-      "name": "kimentanm",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/hnyd.m3u",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    },    
-{
-      "name": "a736240084",
-      "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/a736240087/tvbox@main/tvlive/tvlive.txt",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    },    
+  
 {
       "name": "sy68",
       "type": 0,
@@ -1534,20 +1509,7 @@
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },    
-{
-      "name": "sy147258",
-      "type": 0,
-      "url": "https://gitee.com/sy147258/tv/raw/master/IPTV",
-     "epg": "http://epg.51zmt.top:8000/e.xml",
-      "playerType": 1
-    },
-    {
-      "name": "wbdy",
-      "type": 0,
-      "url": "https://gitee.com/wbdy/tv/raw/master/live.m3u",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    }, 
+
 {
       "name": "gzj7003",
       "type": 0,
