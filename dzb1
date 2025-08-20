@@ -1479,6 +1479,13 @@
       "playerType": 1
     },
 
+{
+      "name": "8.138",
+      "type": 0,
+      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby3.txt",
+     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
+      "playerType": 1
+    },
  {
       "name": "移动39.162",
       "type": 0,
