@@ -1483,7 +1483,7 @@
       "name": "8.138",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby3.txt",
-     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
+     "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },
  {
