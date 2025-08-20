@@ -1470,7 +1470,6 @@
 
 "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [ 
-
 {
       "name": "移动1",
       "type": 0,
@@ -1478,12 +1477,11 @@
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     },
-
 {
       "name": "8.138",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby3.txt",
-     "epg": "https://cdn.jsdelivr.net/gh/ljf9096/iptv@main/EPG.xml",
+     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     },
  {
@@ -1492,8 +1490,7 @@
       "url": "http://39.162.21.133:88/tv.txt",
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
-    },
- 
+    }, 
 {
       "name": "lizanyang",
       "type": 0,
@@ -1508,7 +1505,6 @@
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     }, 
-  
 {
       "name": "sy68",
       "type": 0,
@@ -1516,7 +1512,6 @@
     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     },    
-
 {
       "name": "gzj7003",
       "type": 0,
@@ -1524,7 +1519,6 @@
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
-
 {
       "name": "网页通用5",
       "type": 0,
