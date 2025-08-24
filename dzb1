@@ -1473,7 +1473,7 @@
 {
       "name": "zby1",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/henan.txt",
+      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby1.txt",
      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },
