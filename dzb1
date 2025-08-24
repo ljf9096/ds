@@ -1502,7 +1502,7 @@
       "name": "xuelong876",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/xuelong876/kodi@main/yd.m3u",
-     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
+     "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     }, 
 {
