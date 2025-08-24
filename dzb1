@@ -1520,14 +1520,14 @@
       "playerType": 1
     },
 {
-      "name": "网页通用5",
+      "name": "zby2通用1",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby2.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
    {
-      "name": "网页及电影通用4",
+      "name": "zb及电影通用2",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zbdy.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
