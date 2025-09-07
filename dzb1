@@ -1509,7 +1509,7 @@
       "name": "sy68",
       "type": 0,
       "url": "https://gitee.com/sy68/tv/raw/tv/zby",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },    
 {
