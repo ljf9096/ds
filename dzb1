@@ -1513,6 +1513,14 @@
       "playerType": 1
     },    
 {
+      "name": "黑龙江移动",
+      "type": 0,
+      "url": "https://gitee.com/luojxue/tv/raw/master/zb2.php",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "playerType": 1
+    },    
+
+{
       "name": "gzj7003",
       "type": 0,
       "url": "https://ghfast.top/https://github.com/gzj7003/tvlist/blob/main/txt_files/%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A1.txt",
