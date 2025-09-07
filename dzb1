@@ -1509,14 +1509,14 @@
       "name": "sy68",
       "type": 0,
       "url": "https://gitee.com/sy68/tv/raw/tv/zby",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     },    
 {
       "name": "黑龙江移动",
       "type": 0,
       "url": "https://gitee.com/luojxue/tv/raw/master/zb2.php",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },    
 
