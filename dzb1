@@ -1478,9 +1478,9 @@
       "playerType": 1
     },
 {
-      "name": "zby1",
+      "name": "zby3",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby1.txt",
+      "url": "https://cdn.jsdelivr.net/gh/ljf9096/ds@main/zby3.txt",
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },
