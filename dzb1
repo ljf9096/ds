@@ -1473,7 +1473,7 @@
 {
       "name": "wbdy通用",
       "type": 0,
-      "url": "https://gitee.com/wbdy/tv/rae/master/live2",
+      "url": "https://gitee.com/wbdy/tv/raw/master/live2",
      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },
