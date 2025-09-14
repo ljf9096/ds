@@ -1471,23 +1471,23 @@
 "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [ 
 {
-      "name": "yb1985",
+      "name": "39.162",
       "type": 0,
-      "url": "https://gitee.com/yb1985/tv/raw/master/dx",
+      "url": "http://39.162.21.133:88/tv.txt",
      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },
 {
-      "name": "zby3",
+      "name": "yb1985",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/zby3.txt",
+      "url": "https://gitee.com/yb1985/tv/raw/master/dx",
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },
  {
-      "name": "移动39.162",
+      "name": "8.138",
       "type": 0,
-      "url": "http://39.162.21.133:88/tv.txt",
+      "url": "http://8.138.7.223/henan.txt",
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     }, 
