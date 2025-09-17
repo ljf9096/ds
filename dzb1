@@ -1547,6 +1547,12 @@
       "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
+    },
+{
+      "name": "多源通用0",
+      "type": 0,
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/5/itvlist.txt",
+      "playerType": 1
     }
   ]
 }
