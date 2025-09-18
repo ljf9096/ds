@@ -1552,6 +1552,7 @@
       "name": "多源通用0",
       "type": 0,
       "url": "thttp://[2402:4e00:c011:300:6d8:79ae:eac2:0]:80/1/V6.m3u",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
