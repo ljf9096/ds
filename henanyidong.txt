@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://live.lizanyang.top/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.lizanyang.top/tv/CCTV4K.png" group-title="4K超高清",CCTV-4K
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.lizanyang.top/tv/CCTV4K.png" group-title="4K超高清",CCTV-4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.lizanyang.top/tv/CCTV4K.png" group-title="4K超高清",CCTV-4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
@@ -123,5 +121,3 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227224/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.lizanyang.top/tv/河北卫视.png" group-title="卫视",河北卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.lizanyang.top/tv/河南4K.png" group-title="河南",河南卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
