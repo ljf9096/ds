@@ -1499,6 +1499,13 @@
       "playerType": 1
     },
 {
+      "name": "zby2通用1",
+      "type": 0,
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/henanyidong.txt",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "playerType": 1
+    },
+{
       "name": "xuelong876",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/xuelong876/kodi@main/yd.m3u",
@@ -1530,14 +1537,14 @@
 {
       "name": "zby2通用1",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/0/zby2.txt",
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/zby2.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
    {
       "name": "zb及电影通用2",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/0/zbdy.txt",
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/zbdy.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
