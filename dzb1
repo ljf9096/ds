@@ -1492,9 +1492,9 @@
       "playerType": 1
     },
  {
-      "name": "8.138",
+      "name": "develop202",
       "type": 0,
-      "url": "http://8.138.7.223/henan.txt",
+      "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     }, 
