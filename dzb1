@@ -1478,9 +1478,9 @@
       "playerType": 1
     },
 {
-      "name": "39.162",
+      "name": "Supprise0901",
       "type": 0,
-      "url": "http://39.162.21.133:88/tv.txt",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     },
