@@ -1516,7 +1516,7 @@
 {
       "name": "酷九通用",
       "type": 0,
-      "url": "https://proxy.pipers.cn/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txtp",
+      "url": "https://proxy.pipers.cn/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },    
