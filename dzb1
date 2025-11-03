@@ -1484,13 +1484,6 @@
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     },
-{
-      "name": "yb1985",
-      "type": 0,
-      "url": "https://gitee.com/yb1985/tv/raw/master/dx",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
-      "playerType": 1
-    },
  {
       "name": "develop202",
       "type": 0,
@@ -1521,9 +1514,9 @@
       "playerType": 1
     },    
 {
-      "name": "黑龙江移动",
+      "name": "酷九通用",
       "type": 0,
-      "url": "https://gitee.com/luojxue/tv/raw/master/zb2.php",
+      "url": "https://proxy.pipers.cn/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txtp",
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },    
