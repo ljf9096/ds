@@ -1485,9 +1485,9 @@
       "playerType": 1
     },
  {
-      "name": "develop202",
+      "name": "develop202通用",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txtt",
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     }, 
@@ -1514,9 +1514,9 @@
       "playerType": 1
     },    
 {
-      "name": "Kimentanm",
+      "name": "kakaxi-1",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/hnyd.m3u",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv6.m3u",
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },    
