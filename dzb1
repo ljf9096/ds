@@ -1536,9 +1536,9 @@
       "playerType": 1
     },
    {
-      "name": "zb及电影通用2",
+      "name": "通用1月",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/zbdy.txt",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/zby6v6.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
