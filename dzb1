@@ -1471,7 +1471,7 @@
 "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [ 
 {
-      "name": "henanyidong",
+      "name": "自henanyidong",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/henanyidong.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
@@ -1498,7 +1498,6 @@
      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     },
-
 {
       "name": "xuelong876",
       "type": 0,
@@ -1529,14 +1528,14 @@
       "playerType": 1
     },
 {
-      "name": "zby2通用1",
+      "name": "y2通用1",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y2.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
    {
-      "name": "通用1月",
+      "name": "自通用1月",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/y6.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -1550,14 +1549,14 @@
       "playerType": 1
     },
 {
-      "name": "自组合",
+      "name": "自组合0",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/0/1.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
 {
-      "name": "多源通用0",
+      "name": "多源通用",
       "type": 0,
       "url": "http://[2402:4e00:c011:300:6d8:79ae:eac2:0]:80/1/V6.m3u",
       "playerType": 1
