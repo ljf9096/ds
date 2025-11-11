@@ -1473,7 +1473,7 @@
 {
       "name": "henanyidong",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/henanyidong.txt",
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/henanyidong.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
@@ -1531,14 +1531,14 @@
 {
       "name": "zby2通用1",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/zby2.txt",
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y2.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
    {
       "name": "通用1月",
       "type": 0,
-      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/zby6v6.txt",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/y6.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
@@ -1547,6 +1547,13 @@
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "playerType": 1
+    },
+{
+      "name": "自组合",
+      "type": 0,
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/0/1.txt",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
 {
