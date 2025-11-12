@@ -1535,9 +1535,9 @@
       "playerType": 1
     },
    {
-      "name": "自通用1月",
+      "name": "y4",
       "type": 0,
-      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/y6.txt",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/y4.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
