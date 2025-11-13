@@ -26,7 +26,7 @@ CCTV-11戏曲,http://112.6.239.227:8207/hls/12/index.m3u8
 CCTV-12社会与法,http://112.6.239.227:8207/hls/13/index.m3u8
 
 CCTV-13新闻,http://112.6.239.227:8207/hls/14/index.m3u8
-
+卫视频道,#genre#
 山东卫视,http://112.6.239.227:8207/hls/15/index.m3u8
 
 浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8
