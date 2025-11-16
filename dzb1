@@ -1471,7 +1471,7 @@
 "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [ 
 {
-      "name": "自henanyidong",
+      "name": "henanyidong",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/henanyidong.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
@@ -1559,6 +1559,12 @@
       "name": "多源通用",
       "type": 0,
       "url": "http://[2402:4e00:c011:300:6d8:79ae:eac2:0]:80/1/V6.m3u",
+      "playerType": 1
+    },
+   "name": "自合并",
+      "type": 0,
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/0/live.txt",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     }
   ]
