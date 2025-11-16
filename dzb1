@@ -1561,6 +1561,7 @@
       "url": "http://[2402:4e00:c011:300:6d8:79ae:eac2:0]:80/1/V6.m3u",
       "playerType": 1
     },
+{
    "name": "自合并",
       "type": 0,
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/0/live.txt",
