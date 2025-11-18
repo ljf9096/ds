@@ -1015,8 +1015,15 @@
     "pv.vipwm.cc"
   ],
   "lives": [
-    {
-      "name": "范明明",
+ {
+          "name": "develop202酷九通用",
+      "type": 0,
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
+      "playerType": 1
+    }, 
+{
+      "name": "范明明"
       "type": 0,
       "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "playerType": 1
