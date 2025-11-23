@@ -1544,7 +1544,7 @@
 {
       "name": "y7",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y7",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/y7",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
