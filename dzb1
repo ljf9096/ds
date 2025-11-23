@@ -1530,14 +1530,14 @@
 {
       "name": "y2通用1",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y2.txt",
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y2",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
    {
       "name": "y4",
       "type": 0,
-      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/y4.txt",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/y4",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
@@ -1551,7 +1551,7 @@
 {
       "name": "y5",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y5.txt",
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y5",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
