@@ -1549,9 +1549,9 @@
       "playerType": 1
     },
 {
-      "name": "a2256569通用3",
+      "name": "ljf通用",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/a2256569/tv@main/sdzb.txt",
+      "url": "http://121.40.43.201/mg.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
