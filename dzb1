@@ -1535,9 +1535,9 @@
       "playerType": 1
     },
    {
-      "name": "y3",
+      "name": "自己服务器ssili126",
       "type": 0,
-      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/y3",
+      "url": "http://121.40.43.201:8080/itvlist.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
