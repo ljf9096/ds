@@ -1533,19 +1533,19 @@
       "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y2",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
-    },
-   {
-      "name": "我0联通",
-      "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/0/live.txt",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 1
-    },
+    },  
 {
       "name": "国际通用",
       "type": 0,
       "url": "https://tmxk.pp.ua/smart-cn.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
+      "playerType": 1
+    },
+ {
+      "name": "sxg",
+      "type": 0,
+      "url": "http://121.40.43.201/sxg.txt",
+     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
