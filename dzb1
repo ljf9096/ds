@@ -1542,14 +1542,14 @@
       "playerType": 1
     },
  {
-      "name": "sxg",
+      "name": "ljfsxg",
       "type": 0,
       "url": "http://121.40.43.201/sxg.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
 {
-      "name": "ljf通用",
+      "name": "ljfmg1",
       "type": 0,
       "url": "http://121.40.43.201/mg.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -1557,9 +1557,9 @@
     },
 
 {
-      "name": "多源通用",
+      "name": "ljfmg2",
       "type": 0,
-      "url": "http://[2402:4e00:c011:300:6d8:79ae:eac2:0]:80/1/V6.m3u",
+      "url": "http://121.40.43.201:5888/iptv",
       "playerType": 1
     },
 {
