@@ -1535,9 +1535,9 @@
       "playerType": 1
     },
    {
-      "name": "自己服务器ssili126",
+      "name": "我0联通",
       "type": 0,
-      "url": "http://121.40.43.201:8080/itvlist.txt",
+      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/0/live.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
