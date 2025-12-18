@@ -1551,7 +1551,7 @@
 {
       "name": "ljfmg1",
       "type": 0,
-      "url": "http://121.40.43.201/mg.txt",
+      "url": "http://121.40.43.201/mg720.txt",
      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
