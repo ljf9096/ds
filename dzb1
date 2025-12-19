@@ -1545,13 +1545,14 @@
       "name": "ljfsxg",
       "type": 0,
       "url": "http://121.40.43.201/sxg.txt",
-     "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+     "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
 {
       "name": "ljfmg3000",
       "type": 0,
       "url": "http://121.40.43.201/mg720.txt",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
 
