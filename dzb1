@@ -1528,10 +1528,10 @@
       "playerType": 1
     },
 {
-      "name": "y2通用1",
+      "name": "migu3000联通",
       "type": 0,
-      "url": "https://kkgithub.com/extdomains/cdn.jsdelivr.net/gh/ljf9096/ds/y/y2",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "url": "http://121.40.43.201:8080/henan_unicom.m3u",
+      "epg": "http://121.40.43.201:3000/playback.xml",
       "playerType": 1
     },  
 {
