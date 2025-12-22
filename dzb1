@@ -1542,14 +1542,14 @@
       "playerType": 1
     },
  {
-      "name": "ljfsxg",
+      "name": "sxg",
       "type": 0,
       "url": "http://121.40.43.201/sxg.txt",
      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },
 {
-      "name": "ljfmg3000",
+      "name": "mg720",
       "type": 0,
       "url": "http://121.40.43.201/mg720.txt",
       "epg": "http://121.40.43.201:3000/playback.xml",
@@ -1557,7 +1557,7 @@
     },
 
 {
-      "name": "ljfmg720",
+      "name": "mg3000",
       "type": 0,
       "url": "http://121.40.43.201:3000",
       "playerType": 1
