@@ -1549,9 +1549,9 @@
       "playerType": 1
     },
 {
-      "name": "mg720",
+      "name": "my9",
       "type": 0,
-      "url": "http://121.40.43.201/mg720.txt",
+      "url": "https://my9.ltd/tv/pllive.txt",
       "epg": "http://121.40.43.201:3000/playback.xml",
       "playerType": 1
     },
