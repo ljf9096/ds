@@ -1528,9 +1528,9 @@
       "playerType": 1
     },
 {
-      "name": "migu3000联通",
+      "name": "潇雨萌萌",
       "type": 0,
-      "url": "http://121.40.43.201:8080/henan_unicom.m3u",
+      "url": "http://43.251.226.89:8080/live.txt",
       "epg": "http://121.40.43.201:3000/playback.xml",
       "playerType": 1
     },  
