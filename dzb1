@@ -1519,7 +1519,13 @@
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     },    
-
+{
+      "name": "kakaxi-2",
+      "type": 0,
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
+      "playerType": 1
+    },
 {
       "name": "gzj7003",
       "type": 0,
@@ -1541,13 +1547,7 @@
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
- {
-      "name": "sxg",
-      "type": 0,
-      "url": "http://121.40.43.201/sxg.txt",
-     "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
-      "playerType": 1
-    },
+
 {
       "name": "my9",
       "type": 0,
