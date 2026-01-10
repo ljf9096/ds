@@ -1557,9 +1557,9 @@
     },
 
 {
-      "name": "mg3000",
+      "name": "ioptu",
       "type": 0,
-      "url": "http://121.40.43.201:3000",
+      "url": "https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/migu_merged.m3u",
       "playerType": 1
     },
 {
