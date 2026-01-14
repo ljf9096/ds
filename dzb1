@@ -1560,12 +1560,13 @@
       "name": "ioptu",
       "type": 0,
       "url": "https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/migu_merged.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
 {
-   "name": "xxxydnw",
+   "name": "tmxk",
       "type": 0,
-      "url": "https://gitee.com/xxxydnw/Migu/raw/master/MYIPTV",
+      "url": "https://tmxk.pp.ua/smart-cn.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     }
