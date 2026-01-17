@@ -64,6 +64,7 @@
             "name": "苹果影视",
             "type": 3,
             "api": "csp_LiteApple",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -73,6 +74,7 @@
             "name": "瓜子影视",
             "type": 3,
             "api": "csp_Gz360",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -82,6 +84,7 @@
       "name": "和友｜APP",
       "type": 3,
       "api": "csp_AppSy",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
       "ext": {
         "url": "",
         "site": "http://qcb.sxtzg.com/api.txt",
@@ -96,6 +99,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
       "ext": {
         "url": "http://huohu.yihn.cc",
         "site": "",
@@ -111,6 +115,7 @@
       "name": "金牌｜影视",
       "type": 3,
       "api": "csp_Jpys",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
@@ -119,6 +124,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
       "ext": {
         "url": "",
         "site": "https://bind.315999.xyz/89.txt",
@@ -133,6 +139,7 @@
             "name": "80S影视",
             "type": 3,
             "api": "csp_BLSGod",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -154,6 +161,7 @@
       "name": "哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://175.178.182.213/lib/戏曲.json",
@@ -164,6 +172,7 @@
       "name": "🎵MV1线",
       "type": 3,
       "api": "csp_XBPQ",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -185,6 +194,7 @@
       "name": "1905影视",
       "type": 3,
       "api": "csp_Web1905",
+ "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
