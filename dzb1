@@ -1,5 +1,4 @@
-{
-      
+{      
   "sites": [
   {
       "key": "热播影视",
@@ -14,7 +13,6 @@
         "url": "http://v.rbotv.cn"
       }
     },
-   
     {
       "key": "旗星",
       "name": "首推线路1",
@@ -144,7 +142,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
         {
             "key": "xsj",
             "name": "影视视觉",
@@ -229,7 +226,6 @@
                 "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
             }
         },
-      
         {
             "key": "三六零弹幕",
             "name": "💘三六┃弹幕",
@@ -243,7 +239,6 @@
                 "danmu": true
             }
         },
-    
         {
             "key": "小苹果弹幕版",
             "name": "🍎苹果┃弹幕",
@@ -400,7 +395,6 @@
                 "反转爽剧"
             ]
         },
-
         {
             "key": "哔哩合集",
             "name": "哔哩合集｜弹幕",
@@ -419,8 +413,7 @@
                 "json": "./JSON/哔哩合集.json"
             },
             "timeout": 10
-        },
-        
+        },        
         {
             "key": "短剧网",
             "name": "短剧网｜短剧",
@@ -544,8 +537,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        
+        },     
         {
             "key": "New6v",
             "name": "New6V｜磁力",
@@ -692,7 +684,6 @@
         }
  ],
 
-"logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [ 
 {
       "name": "henanyidong",
