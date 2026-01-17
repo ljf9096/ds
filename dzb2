@@ -6,7 +6,7 @@
 {"key":"csp_Config","name":"😊配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0},
 {"key":"本地","name":"🤓本地┃文件","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"直播转点播","name":"🐼️电视┃直播","type":3,"searchable":0,"api":"./js/live2vod.js","ext":"./json/feimaolive.json"},
-{"key":"csp_PanShareQuark","name":"🆘夸克┃网1,kuake_yppan,yunpanuc,BaiduCloudDisk,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,peccxinpd,yunpan189,tianyirigeng,tyypzhpd,shareAliyun,zaihuayun,ali_yppan"}},
+{"key":"csp_PanShareQuark","name":"🆘夸克┃网1,kuake_yppan,yunpanuc,BaiduCloudDisk,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,peccxinpd,yunpan189,tianyirigeng,tyypzhpd,shareAliyun,zaihuayun,ali_yppan"},
 {"key":"夸克推送","name":"👊夸克┃推送","type":4,"timeout":60,"api":"https://so.yinpai.xyz/api.php?type=quark"},
 {"key":"百度推送","name":"✊百度┃推送","type":4,"timeout":60,"api":"https://so.yinpai.xyz/api.php?type=baidu"},
 {"key":"UC推送","name":"☝️优熙┃推送","type":4,"timeout":60,"api":"https://so.yinpai.xyz/api.php?type=uc"},
