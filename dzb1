@@ -1,7 +1,7 @@
 {
        "spider": "http://101.35.151.236/lib/NB.jar",
   "sites": [
-{"key":"csp_SeedHub","name":"🎳Seed┃Hub","type":3,"api":"csp_SeedHub","timeout":60,"searchable":1,"changeable":0},
+{"key":"csp_SeedHub","name":"🎳Seed┃Hub","type":3,"spider":"http://rihou.cc:88/jar/vox.jar","api":"csp_SeedHub","timeout":60,"searchable":1,"changeable":0},
 {"key":"csp_Xxzn","name":"🤑4K┃指南","type":3,"api":"csp_Xxzn","filterable":1,"searchable":1,"changeable":1,"timeout":60,"ext":{"filters":"./json/xxzn.json","sites":"https://4kzn.com"}},
 {"key":"csp_Wogg","name":"😁玩偶┃哥哥","type":3,"api":"csp_Wogg","timeout":60,"searchable":1,"filterable":1,"changeable":1,"ext":{"sites":"https://wogg.xxooo.cf","filters":"./json/wogg.json","proxy":"noproxy"}},
 {"key":"csp_YHDM","name":"😍樱花┃动漫","type":3,"api":"csp_YHDM","searchable":1,"changeable":1},
