@@ -1741,7 +1741,7 @@
    "name": "tmxk",
       "type": 0,
       "url": "https://tmxk.pp.ua/smart-cn.m3u",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+       "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
