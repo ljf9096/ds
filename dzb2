@@ -96,6 +96,7 @@
 {"key":"酷酷","name":"😎酷酷┃JX","type":3,"api":"./js/drpy2.min.js","ext":"./js/酷酷.js"},
 {"key":"csp_Bili","name":"🅱️哔哩┃合集","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"./json/bili.json","cookie":""},"style":{"type":"rect","ratio":1.333}},
 {"key":"csp_Biliyy","name":"🅱️哔哩┃音乐","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"./json/biliyy.json","cookie":""},"style":{"type":"rect","ratio":1.333}},
-{"key":"csp_mtv","name":"🅱️MV┃音乐","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"./json/mtv.json","cookie":""},"style":{"type":"rect","ratio":1.333}}
+{"key":"csp_mtv","name":"🅱️MV┃音乐","type":3,"api":"csp_Bili","playerType":2,"ext":{"json":"./json/mtv.json","cookie":""},"style":{"type":"rect","ratio":1.333}
+}
 ]
 }
