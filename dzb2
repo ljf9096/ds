@@ -1741,7 +1741,7 @@
    "name": "175",
       "type": 0,
       "url": "http://175.178.182.213/1/newV6.m3u",
-       "epg": "http://epg.51zmt.top:8000/e.xml",
+       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     }
   ]
