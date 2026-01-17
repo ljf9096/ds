@@ -1,5 +1,5 @@
 {
-"spider":"./jar/vox.jar;md5;1058ddfeb9b54e8775761a44398a3aa6",
+"spider":"./jar/vox.jar",
 "sites":
 [
 {"key":"csp_Douban","name":"🥰豆瓣┃VOX","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"timeout":60,"ext":"./json/douban.json"},
