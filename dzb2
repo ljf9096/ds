@@ -1,15 +1,15 @@
 {
       
   "sites": [
-    {
+  {
       "key": "热播影视",
       "name": "热播影视",
       "type": 3,
       "api": "csp_AppRJ",
-       "spider": "http://101.35.151.236/lib/NB.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "http://101.35.151.236/lib/NB.jar",  // 使用 jar 参数而不是 spider
       "ext": {
         "url": "http://v.rbotv.cn"
       }
