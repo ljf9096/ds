@@ -1,6 +1,6 @@
 {
-"spider":"./jar/vox.jar",
-"sites":
+       "spider": "./jar/vox.jar",
+  "sites": 
 [
 {"key":"csp_Douban","name":"🥰豆瓣┃VOX","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"timeout":60,"ext":"./json/douban.json"},
 {"key":"csp_Config","name":"😊配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0},
