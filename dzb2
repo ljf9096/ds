@@ -1741,7 +1741,7 @@
    "name": "175",
       "type": 0,
       "url": "http://175.178.182.213/1/newV6.m3u",
-       "epg": "https://zhong9527.dpdns.org/logo/{name}.png",
+       "epg": "http://e.erw.cc/e.xml",
       "playerType": 1
     }
   ]
