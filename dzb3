@@ -7,6 +7,7 @@
       "type": 3,
       "api": "./1/lib/drpy2.min.js",
       "ext": "./1/lib/txsp.js"
+},
         {
             "key": "豆",
             "name": "公众号【榴芒电视】",
