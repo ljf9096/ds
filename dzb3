@@ -1,6 +1,12 @@
  {
     "spider": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",  // 1-334行使用
     "sites": [
+{
+      "key": "腾讯视频",
+      "name": "腾讯｜4K",
+      "type": 3,
+      "api": "./1/lib/drpy2.min.js",
+      "ext": "./1/lib/txsp.js"
         {
             "key": "豆",
             "name": "公众号【榴芒电视】",
