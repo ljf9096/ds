@@ -338,6 +338,8 @@
       "name": "腾讯｜4K",
       "type": 3,
       "api": "./1/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
       "ext": "./1/lib/txsp.js"
     },
     {
@@ -345,6 +347,8 @@
       "name": "芒果｜4K",
       "type": 3,
       "api": "./1/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
       "ext": "./1/lib/mgsp.js"
     },
     {
@@ -352,6 +356,8 @@
       "name": "奇艺｜2K",
       "type": 3,
       "api": "./1/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
       "ext": "./1/lib/aqysp.js"
     },
     {
@@ -359,6 +365,8 @@
       "name": "优酷｜2K",
       "type": 3,
       "api": "./1/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
       "ext": "./1/lib/yksp.js"
     },
   {
