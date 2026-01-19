@@ -1,13 +1,6 @@
  {
     "spider": "https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg",  // 1-334行使用
     "sites": [
-{
-      "key": "腾讯视频",
-      "name": "腾讯｜4K",
-      "type": 3,
-      "api": "./1/lib/drpy2.min.js",
-      "ext": "./1/lib/txsp.js"
-},
         {
             "key": "豆",
             "name": "公众号【榴芒电视】",
@@ -338,7 +331,34 @@
             "changeable": 0,
             "ext": {
                 "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
-            }
-        }
+            }，  // 335-362行使用仓库ds/1，来自https://gitee.com/sun-builder-0377/tv.git
+    {
+      "key": "腾讯视频",
+      "name": "腾讯｜4K",
+      "type": 3,
+      "api": "./1/lib/drpy2.min.js",
+      "ext": "./1/lib/txsp.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "芒果｜4K",
+      "type": 3,
+      "api": "./1/lib/drpy2.min.js",
+      "ext": "./1/lib/mgsp.js"
+    },
+    {
+      "key": "奇艺视频",
+      "name": "奇艺｜2K",
+      "type": 3,
+      "api": "./1/lib/drpy2.min.js",
+      "ext": "./1/lib/aqysp.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "优酷｜2K",
+      "type": 3,
+      "api": "./1/lib/drpy2.min.js",
+      "ext": "./1/lib/yksp.js"
+    }
           ]
 }
