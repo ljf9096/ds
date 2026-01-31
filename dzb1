@@ -1115,7 +1115,7 @@
       "name": "518714migu",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/badboy518714/migu_video/main/migu.txt",
-      "epg": "https://ghproxy.com/https://raw.githubusercontent.com/liliu2y/migu/main/playback.xml",
+      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/badboy518714/migu_video/main/playback.xml",
       "playerType": 1
     },
 
