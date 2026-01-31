@@ -1123,7 +1123,7 @@
       "name": "ioptu",
       "type": 0,
       "url": "https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/migu_merged.m3u",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "https://ghproxy.com/https://raw.githubusercontent.com/liliu2y/migu/main/playback.xml",
       "playerType": 1
     },
 {
