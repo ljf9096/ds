@@ -1104,9 +1104,9 @@
       "playerType": 1
     },  
 {
-      "name": "国际通用",
+      "name": "mg",
       "type": 0,
-      "url": "https://tmxk.pp.ua/smart-cn.m3u",
+      "url": "http://112.124.62.239/mg.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
