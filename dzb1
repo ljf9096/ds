@@ -1120,10 +1120,10 @@
     },
 
 {
-      "name": "ioptu",
+      "name": "175178",
       "type": 0,
-      "url": "https://gh-proxy.org/github.com/ioptu/IPTV.txt2m3u.player/raw/refs/heads/main/migu_merged.m3u",
-      "epg": "https://ghproxy.com/https://raw.githubusercontent.com/liliu2y/migu/main/playback.xml",
+      "url": "http://175.178.182.213/dianbo/long2.json",
+      "epg": "http://e.erw.cc/e.xml",
       "playerType": 1
     },
 {
