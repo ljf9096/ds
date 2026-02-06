@@ -1123,7 +1123,7 @@
       "name": "1234mg",
       "type": 0,
       "url": "http://112.124.62.239:1234",
-      "epg": "http://e.erw.cc/e.xml",
+      "epg": "http://112.124.62.239:1234/playback.xml",
       "playerType": 1
     },
 {
