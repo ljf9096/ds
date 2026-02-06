@@ -1120,9 +1120,9 @@
     },
 
 {
-      "name": "175178",
+      "name": "1234mg",
       "type": 0,
-      "url": "http://175.178.182.213/dianbo/long2.json",
+      "url": "http://112.124.62.239:1234",
       "epg": "http://e.erw.cc/e.xml",
       "playerType": 1
     },
