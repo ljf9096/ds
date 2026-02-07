@@ -1104,9 +1104,9 @@
       "playerType": 1
     },  
 {
-      "name": "mg",
+      "name": "suxiaoguo",
       "type": 0,
-      "url": "http://112.124.62.239/mg.txt",
+      "url": "http://112.124.62.239:48789/suxiaoguo.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
