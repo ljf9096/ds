@@ -1106,15 +1106,15 @@
 {
       "name": "suxiaoguo",
       "type": 0,
-      "url": "http://112.124.62.239:48789/suxiaoguo.txt",
+      "url": "http://112.124.62.239/suxiaoguo.txt",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
 
 {
-      "name": "518714migu",
+      "name": "migu",
       "type": 0,
-      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/badboy518714/migu_video/main/migu.txt",
+      "url": "http://112.124.62.239/mg.txt",
       "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/badboy518714/migu_video/main/playback.xml",
       "playerType": 1
     },
