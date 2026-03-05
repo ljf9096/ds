@@ -1104,9 +1104,9 @@
       "playerType": 1
     },  
 {
-      "name": "suxiaoguo",
+      "name": "ioptu",
       "type": 0,
-      "url": "http://112.124.62.239/suxiaoguo.txt",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/main/migu.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
