@@ -1090,10 +1090,10 @@
       "playerType": 1
     },
 {
-      "name": "ljfmg",
+      "name": "liulei120",
       "type": 0,
-      "url": "http://112.124.62.239",
-      "epg": "http://112.124.62.239/playback.xml",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/liulei120/TVCrazy/main/output/itvlist.txt",
+      "epg": "http://e.erw.cc/e.xml",
       "playerType": 1
     },
 {
