@@ -1086,7 +1086,7 @@
       "name": "kakaxi-2",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
+      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/badboy518714/migu_video/main/playback.xml",
       "playerType": 1
     },
 {
@@ -1108,22 +1108,6 @@
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/main/migu.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
-      "playerType": 1
-    },
-
-{
-      "name": "migu",
-      "type": 0,
-      "url": "http://112.124.62.239/mg.txt",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/badboy518714/migu_video/main/playback.xml",
-      "playerType": 1
-    },
-
-{
-      "name": "1234mg",
-      "type": 0,
-      "url": "http://112.124.62.239:1234",
-      "epg": "http://112.124.62.239:1234/playback.xml",
       "playerType": 1
     },
 {
