@@ -1116,6 +1116,13 @@
       "url": "http://175.178.182.213/1/newV6.m3u",
        "epg": "http://e.erw.cc/e.xml",
       "playerType": 1
+    },
+{
+   "name": "ljf0",
+      "type": 0,
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/0/main/live.m3u",
+       "epg": "http://e.erw.cc/e.xml",
+      "playerType": 1
     }
   ]
 }
