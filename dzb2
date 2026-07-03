@@ -1016,7 +1016,7 @@
       "name": "私人影院",
       "type": 0,
       "url": "http://175.178.182.213/1/xinV6.m3u",
-     "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
+      "epg": "http://e.erw.cc/e.xml",
       "playerType": 1
     }, 
 {
