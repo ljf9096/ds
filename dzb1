@@ -87,17 +87,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "原创",
-            "name": "☀原创┃秒播",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 15,
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "比特",
             "name": "🍄比特┃秒播",
@@ -882,16 +872,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "迅雷吧",
-            "name": "迅雷吧｜磁力",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_Xunlei8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+     
         {
             "key": "电影港",
             "name": "电影港｜磁力",
