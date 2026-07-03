@@ -1,3 +1,4 @@
+{
 "spider":"http://124.222.214.218/lib/NB.jar",
   "lives":[{"name":"本人直播","type":0,"pass":true,"ua":"okhttp/3.12.13","url":"http://175.178.182.213/1/xinV6.m3u","epg":"http://124.222.214.218:35678/?ch={name}&date={date}","logo":"http://175.178.182.213/tb/{name}.png"}],
   "wallpaper":"https://深色壁纸.xxooo.cf/",
