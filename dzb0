@@ -1,8 +1,6 @@
 {
   "sites":[
     {"key":"热播影视","name":"更新时间2026年2月15日","type":3,"api":"csp_AppRJ","jar": "http://124.222.214.218/lib/NB.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
-    {"key":"瓜子影视","name":"瓜子影视","type":3,"api":"csp_Gz360","jar": "http://124.222.214.218/lib/NB.jar","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"Live2Vod","name":"电影付费直播","type":3,"api":"http://175.178.182.213/dianbo/zzd.js","searchable":0,"ext":"电影频道$http://175.178.182.213/1/zhibodianying.txt&&&http://175.178.182.213/tb/live.png"},
     {"key":"drpy_js_奇珍异兽","name":"奇艺官方","type":3,"api":"http://175.178.182.213/lib/drpy2.min.js","ext":"http://175.178.182.213/lib/奇珍异兽.js"},
     {"key":"drpy_js_腾云驾雾","name":"腾讯官方","type":3,"api":"http://175.178.182.213/lib/drpy2.min.js","ext":"http://175.178.182.213/lib/腾云驾雾.js"},
     {"key":"drpy_js_百忙无果","name":"芒果官方","type":3,"api":"http://175.178.182.213/lib/drpy2.min.js","ext":"http://175.178.182.213/lib/百忙无果.js"},
