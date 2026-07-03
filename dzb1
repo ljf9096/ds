@@ -1013,9 +1013,9 @@
       "playerType": 1
     },
 {
-      "name": "xuelong876",
+      "name": "私人影院",
       "type": 0,
-      "url": "https://cdn.jsdelivr.net/gh/xuelong876/kodi@main/yd.m3u",
+      "url": "http://175.178.182.213/dianbo/long2.json",
      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
       "playerType": 1
     }, 
@@ -1046,14 +1046,7 @@
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/liulei120/TVCrazy/main/output/itvlist.txt",
       "epg": "http://e.erw.cc/e.xml",
       "playerType": 1
-    },
-{
-      "name": "潇雨萌萌",
-      "type": 0,
-      "url": "http://43.251.226.89:8080/live.txt",
-      "epg": "http://121.40.43.201:3000/playback.xml",
-      "playerType": 1
-    },  
+    }, 
 {
       "name": "ioptu",
       "type": 0,
