@@ -1043,9 +1043,9 @@
       "playerType": 1
     },
 {
-   "name": "私人影院175",
+   "name": "潇",
       "type": 0,
-      "url": "http://175.178.182.213/1/newV6.m3u",
+      "url": "http://45.192.97.170:5211/130052",
        "epg": "http://e.erw.cc/e.xml",
       "playerType": 1
     },
@@ -1053,7 +1053,7 @@
    "name": "ljf0",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/0/main/live.m3u",
-       "epg": "http://e.erw.cc/e.xml",
+       "epg": "http://124.222.214.218:35678/?ch={name}&date={date}",
       "playerType": 1
     }
   ]
