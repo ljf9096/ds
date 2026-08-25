@@ -976,7 +976,7 @@
       "name": "szyyds",
       "type": 0,
       "url": "http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "http://47.100.209.208:20002/playback.xml",
       "playerType": 1
     },
 {
@@ -1025,7 +1025,7 @@
       "name": "kakaxi-2",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/badboy518714/migu_video/main/playback.xml",
+      "epg": "http://47.100.209.208:20002/playback.xml",
       "playerType": 1
     },
 {
@@ -1046,14 +1046,14 @@
    "name": "潇",
       "type": 0,
       "url": "http://45.192.97.170:5211/130052",
-       "epg": "http://e.erw.cc/e.xml",
+       "epg": "http://47.100.209.208:20002/playback.xml",
       "playerType": 1
     },
 {
    "name": "ljf0",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/0/main/live.m3u",
-       "epg": "http://124.222.214.218:35678/?ch={name}&date={date}",
+       "epg": "http://47.100.209.208:20002/playback.xml",
       "playerType": 1
     }
   ]
