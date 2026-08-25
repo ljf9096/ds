@@ -975,7 +975,7 @@
 {
       "name": "szyyds",
       "type": 0,
-      "url": "https://szyyds.cn/tv/x.json",
+      "url": "https://szyyds.cn/tv/x",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
