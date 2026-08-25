@@ -973,9 +973,9 @@
 
   "lives": [ 
 {
-      "name": "migu",
+      "name": "szyyds",
       "type": 0,
-      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/ds/main/y/migu720.txt",
+      "url": "https://szyyds.cn/tv/x.json",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "playerType": 1
     },
