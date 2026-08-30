@@ -1046,6 +1046,7 @@
    "name": "潇",
       "type": 0,
       "url": "http://45.192.97.170:5211/130052",
+     "epg": "https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz",
       "playerType": 1
     },
 {
