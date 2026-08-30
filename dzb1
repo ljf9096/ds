@@ -976,14 +976,14 @@
       "name": "szyyds",
       "type": 0,
       "url": "http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512",
-      "epg": "http://47.100.209.208:20002/playback.xml",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz",
       "playerType": 1
     },
 {
       "name": "Supprise0901",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
-     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
+     "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz",
       "playerType": 1
     },
  {
@@ -1004,35 +1004,35 @@
       "name": "私人影院",
       "type": 0,
       "url": "http://175.178.182.213/1/xinV6.m3u",
-      "epg":"http://124.222.214.218:35678/?ch={name}&date={date}",
+      "epg":"https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz",
       "playerType": 1
     }, 
 {
       "name": "sy68",
       "type": 0,
       "url": "https://gitee.com/sy68/tv/raw/tv/zby",
-      "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz",
       "playerType": 1
     },    
 {
       "name": "kakaxi-1",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz",
       "playerType": 1
     },    
 {
       "name": "kakaxi-2",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
-      "epg": "http://47.100.209.208:20002/playback.xml",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz",
       "playerType": 1
     },
 {
       "name": "liulei120",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/liulei120/TVCrazy/main/output/itvlist.txt",
-      "epg": "http://e.erw.cc/e.xml",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz",
       "playerType": 1
     }, 
 {
@@ -1053,7 +1053,7 @@
    "name": "ljf0",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/0/main/live.m3u",
-       "epg": "http://47.100.209.208:20002/playback.xml",
+       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz",
       "playerType": 1
     }
   ]
