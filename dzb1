@@ -994,10 +994,10 @@
       "playerType": 1
     }, 
 {
-      "name": "lizanyang",
+      "name": "RJZC",
       "type": 0,
-      "url": "https://live.lizanyang.top/hn.m3u",
-     "epg": "http://152.136.216.44:35678/?ch={name}&date={date}",
+      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/caaf92ae6eb9214499e78c822d00df59dc7d7ddc/RJLIVE_V2.6.8/rj_live.m3u",
+     "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz",
       "playerType": 1
     },
 {
@@ -1014,13 +1014,7 @@
       "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_hk.xml.gz",
       "playerType": 1
     },    
-{
-      "name": "kakaxi-1",
-      "type": 0,
-      "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz",
-      "playerType": 1
-    },    
+
 {
       "name": "kakaxi-2",
       "type": 0,
