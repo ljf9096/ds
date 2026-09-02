@@ -1011,7 +1011,7 @@
       "name": "sy68",
       "type": 0,
       "url": "https://gitee.com/sy68/tv/raw/tv/zby",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
+      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml.gz",
       "playerType": 1
     },    
 
@@ -1033,7 +1033,7 @@
       "name": "ioptu",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/main/migu.m3u",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
+      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml.gz",
       "playerType": 1
     },
 
@@ -1041,7 +1041,7 @@
    "name": "ljf0",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/0/main/live.m3u",
-       "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
+       "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml.gz",
       "playerType": 1
     }
   ]
