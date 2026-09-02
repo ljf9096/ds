@@ -976,14 +976,14 @@
       "name": "szyyds",
       "type": 0,
       "url": "http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/CN.EPG/main/epg.xml",
+      "epg": "https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
       "playerType": 1
     },
 {
       "name": "Supprise0901",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
-     "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/CN.EPG/main/epg.xml",
+     "epg": "https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
       "playerType": 1
     },
  {
@@ -997,14 +997,14 @@
       "name": "RJZC",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/caaf92ae6eb9214499e78c822d00df59dc7d7ddc/RJLIVE_V2.6.8/rj_live.m3u",
-     "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/CN.EPG/main/epg.xml",
+     "epg": "https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
       "playerType": 1
     },
 {
       "name": "私人影院",
       "type": 0,
       "url": "http://175.178.182.213/1/xinV6.m3u",
-      "epg":"https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/CN.EPG/main/epg.xml",
+      "epg":"https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
       "playerType": 1
     }, 
 {
@@ -1019,14 +1019,14 @@
       "name": "kakaxi-2",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/CN.EPG/main/epg.xml",
+      "epg": "https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
       "playerType": 1
     },
 {
       "name": "liulei120",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/liulei120/TVCrazy/main/output/itvlist.txt",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/CN.EPG/main/epg.xml",
+      "epg": "https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
       "playerType": 1
     }, 
 {
