@@ -1011,7 +1011,7 @@
       "name": "sy68",
       "type": 0,
       "url": "https://gitee.com/sy68/tv/raw/tv/zby",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg/epg.xml",
+      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/5iClub/CN.EPG/main/epg.xml",
       "playerType": 1
     },    
 
