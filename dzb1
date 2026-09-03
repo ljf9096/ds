@@ -976,7 +976,7 @@
       "name": "szyyds",
       "type": 0,
       "url": "http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512",
-      "epg": "https://raw.githubusercontent.com/ljf9096/jzpfepg/main/epg.xml",
+      "epg": "https://ljf9096.github.io/jzpfepg/epg.xml",
       "playerType": 1
     },
 {
