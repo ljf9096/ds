@@ -976,7 +976,7 @@
       "name": "szyyds",
       "type": 0,
       "url": "http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512",
-      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg/epg.xml",
+      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg.xml",
       "playerType": 1
     },
 {
@@ -997,7 +997,7 @@
       "name": "RJZC",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/caaf92ae6eb9214499e78c822d00df59dc7d7ddc/RJLIVE_V2.6.8/rj_live.m3u",
-     "epg": "https://raw.githubusercontent.com/ljf9096/epg/main/epg/epg.xml",
+     "epg": "https://raw.githubusercontent.com/ljf9096/epg/main/epg.xml",
       "playerType": 1
     },
 {
@@ -1033,7 +1033,7 @@
       "name": "ioptu",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/main/migu.m3u",
-      "epg": "https://raw.githubusercontent.com/ljf9096/epg/main/epg/epg.xml",
+      "epg": "https://raw.githubusercontent.com/ljf9096/epg/main/epg.xml",
       "playerType": 1
     },
 
@@ -1041,7 +1041,7 @@
    "name": "ljf0",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/0/main/live.m3u",
-       "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg/epg.xml",
+       "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg.xml",
       "playerType": 1
     }
   ]
