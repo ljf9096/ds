@@ -997,7 +997,7 @@
       "name": "RJZC",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/caaf92ae6eb9214499e78c822d00df59dc7d7ddc/RJLIVE_V2.6.8/rj_live.m3u",
-     "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/5iClub/CN.EPG/main/epg.xml",
+     "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg/epg.xml",
       "playerType": 1
     },
 {
