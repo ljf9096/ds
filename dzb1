@@ -990,14 +990,14 @@
       "name": "茄子库平台直播",
       "type": 0,
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-     "epg": "https://epg.deny.vip/sh/tel-epg.xml",
+     "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg.xml",
       "playerType": 1
     }, 
 {
       "name": "RJZC",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/caaf92ae6eb9214499e78c822d00df59dc7d7ddc/RJLIVE_V2.6.8/rj_live.m3u",
-     "epg": "https://epg.deny.vip/sh/tel-epg.xml",
+     "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg.xml",
       "playerType": 1
     },
 {
@@ -1033,7 +1033,7 @@
       "name": "ioptu",
       "type": 0,
       "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ioptu/IPTV.txt2m3u.player/main/migu.m3u",
-      "epg": "https://epg.deny.vip/sh/tel-epg.xml",
+      "epg": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/ljf9096/epg/main/epg.xml",
       "playerType": 1
     },
 
